@@ -8,6 +8,8 @@ Created on Fri Jul  5 15:11:10 2019
 """
 import xlrd
 
+import re
+
 import pickle
 studentSubGroupsPickle = open('studentSubGroups.pickle','rb')
 studentSubGroups = pickle.load(studentSubGroupsPickle)
@@ -19,7 +21,7 @@ sheet = wb.sheet_by_index(0) # get first sheet
 
 # column heading numbers
 deptCol = 1
-CourseCode	=	54
+CourseCode	=	2
 CourseTitle	=	3
 CourseType	=	5
 OpenAsUWE = 6
@@ -91,7 +93,11 @@ for i in range(2,sheet.nrows):
         seci = sheet.cell_value(i,LectureSections)
         courseList[cCode]['lecSections'][seci] = dict()
         
-        courseList[cCode]['lecSections'][seci]['instructors'] = sheet.cell_value(i,LectureInstructors).split(',\n')[:-1]
+        
+        courseList[cCode]['lecSections'][seci]['instructors'] = sheet.cell_value(i,LectureInstructors).split(',\n')
+        courseList[cCode]['lecSections'][seci]['instructors'][-1] = courseList[cCode]['lecSections'][seci]['instructors'][-1][0:-1] 
+        
+        
         deptListOfInstructors[dept] = deptListOfInstructors[dept].union(courseList[cCode]['lecSections'][seci]['instructors'])
         courseList[cCode]['lecSections'][seci]['potentialStudents'] = set()
         if (sheet.cell_type(i,lecStudentsColumn) != xlrd.XL_CELL_EMPTY):        
@@ -125,8 +131,12 @@ for i in range(2,sheet.nrows):
         tutStudentsColumn = 52
         seci = sheet.cell_value(i,TutorialSections)
         courseList[cCode]['tutSections'][seci] = dict()
-        courseList[cCode]['tutSections'][seci]['instructors'] = sheet.cell_value(i,TutorialInstructors).split(',\n')[:-1]
+
+        courseList[cCode]['tutSections'][seci]['instructors'] = sheet.cell_value(i,TutorialInstructors).split(',\n')
+        courseList[cCode]['tutSections'][seci]['instructors'][-1] = courseList[cCode]['tutSections'][seci]['instructors'][-1][0:-1] 
         deptListOfInstructors[dept] = deptListOfInstructors[dept].union(courseList[cCode]['tutSections'][seci]['instructors'])
+
+
 
         courseList[cCode]['tutSections'][seci]['potentialStudents'] = set()
         if (sheet.cell_type(i,tutStudentsColumn) != xlrd.XL_CELL_EMPTY):        
@@ -151,7 +161,10 @@ for i in range(2,sheet.nrows):
         labStudentsColumn = 53
         seci = sheet.cell_value(i,PracticalSections)
         courseList[cCode]['labSections'][seci] = dict()
-        courseList[cCode]['labSections'][seci]['instructors'] = sheet.cell_value(i,PracticalInstructors).split(',\n')[:-1]
+        courseList[cCode]['labSections'][seci]['instructors'] = sheet.cell_value(i,PracticalInstructors).split(',\n')
+        courseList[cCode]['labSections'][seci]['instructors'][-1] = courseList[cCode]['labSections'][seci]['instructors'][-1][0:-1] 
+
+
         deptListOfInstructors[dept] = deptListOfInstructors[dept].union(courseList[cCode]['labSections'][seci]['instructors'])
         courseList[cCode]['labSections'][seci]['potentialStudents'] = set()
         if (sheet.cell_type(i,labStudentsColumn) != xlrd.XL_CELL_EMPTY):        
