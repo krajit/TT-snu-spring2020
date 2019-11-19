@@ -56,8 +56,8 @@ for ci in courseList:
     
     #only work with major courses in this loop
     if (c['CourseType'] != 'Major') :
-        continue
-    
+            continue
+        
     if 'lecSections' in c:
         for li in c['lecSections']:
             courseList[ci]['lecSections'][li]['students'] = courseList[ci]['lecSections'][li]['students'].union(
@@ -88,16 +88,22 @@ for y in studentGroups:
     for s in studentGroups[y]:
         enrolledMajorElectives[s] = set() #maxMajorElectives
 
-
 for ci in courseList:
     c = courseList[ci]
     # skip if not major electives type
     if (c['CourseType'] != 'Major Elective'):
         continue
     # get list of all students
+    
+    if ci == 'CED636':
+        continue
+    
+    
     cStudents = set()
     for li in c['lecSections']:
         cStudents = cStudents.union(c['lecSections'][li]['potentialStudents'])
+
+
  
     for s in cStudents:
         # increase maxMajorElectives for all except CSE
@@ -136,24 +142,27 @@ for ci in courseList:
 # Then manually make sure all CCC overlaps
 #courseList['CCC510']['studentsSet'].add('year1')
 
-courseList['CCC515']['lecSections']['LEC1']['students'].add('year1')  
-courseList['CCC515']['lecSections']['LEC1']['students'].add('year2')  
-courseList['CCC515']['lecSections']['LEC1']['students'].add('year3')  
-courseList['CCC515']['lecSections']['LEC1']['students'].add('year4')  
+
+anchorCCC = 'CCC608'
+
+courseList[anchorCCC]['lecSections']['LEC1']['students'].add('year1')  
+courseList[anchorCCC]['lecSections']['LEC1']['students'].add('year2')  
+courseList[anchorCCC]['lecSections']['LEC1']['students'].add('year3')  
+courseList[anchorCCC]['lecSections']['LEC1']['students'].add('year4')  
 
 ## add other CCC instructors in CCC515
 ## don't generate timetable for other CCC
 
-courseList['CCC515']['overlapsWith'] = dict()
+courseList['CCC608']['overlapsWith'] = dict()
 for ci in courseList:
     c = courseList[ci]
     
     if 'CCC' not in ci:
         continue
     
-    if ci != 'CCC515':
-        courseList['CCC515']['overlapsWith'][ci] = c['lecSections']['LEC1']['instructors']
-        courseList['CCC515']['lecSections']['LEC1']['instructors'] = courseList['CCC515']['lecSections']['LEC1']['instructors'] + c['lecSections']['LEC1']['instructors']
+    if ci != anchorCCC:
+        courseList[anchorCCC]['overlapsWith'][ci] = c['lecSections']['LEC1']['instructors']
+        courseList[anchorCCC]['lecSections']['LEC1']['instructors'] = courseList[anchorCCC]['lecSections']['LEC1']['instructors'] + c['lecSections']['LEC1']['instructors']
     
                   
 ## map courses to activities
@@ -190,7 +199,7 @@ activityGroupId = 0
 for cIndex, c in courseList.items():
     
     #among CCC only map CCC515
-    if ('CCC' in cIndex) and (cIndex != 'CCC515'):
+    if ('CCC' in cIndex) and (cIndex != anchorCCC):
         continue
     
     
@@ -662,10 +671,10 @@ for cIndex, c in courseList.items():
 tag = tag+ lunchInFourDaysXML
 
 # add CCC overlapping constratint
-import CCCsameSlot as ov
-#import overlappingCCCstring as ov
-#tag = tag+ov.x
-tag = tag +ov.coursesOverlappingXML
+#import CCCsameSlot as ov
+##import overlappingCCCstring as ov
+##tag = tag+ov.x
+#tag = tag +ov.coursesOverlappingXML
 
 #from minimalGapsForTeachers import globalMinGapXML
 #tag = tag + globalMinGapXML
@@ -684,12 +693,12 @@ tag = tag+tna.x
 
 
 # teachers max hours continuously constraint
-import teacherMaxContinuousHoursDaily as tMaxContinuous
-tag = tag + tMaxContinuous.consList
+#import teacherMaxContinuousHoursDaily as tMaxContinuous
+#tag = tag + tMaxContinuous.consList
 
 # teachers max number of working day constraint
-import teachersMaxWorkingDay as teacherMaxDay
-tag = tag + teacherMaxDay.teacherMaxDayConsXML
+#import teachersMaxWorkingDay as teacherMaxDay
+#tag = tag + teacherMaxDay.teacherMaxDayConsXML
 
 
 # courses with preferred slots 

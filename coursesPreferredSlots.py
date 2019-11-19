@@ -27,9 +27,9 @@ def favSlotXML(id,day,hour,weight):
     return activityIdPreferredTimeXML
     
 coursesWithPreferredSlot = {
-        'EED206': {'LEC1' :{'days' : ['M','W','F'], 'hour': '08:00', 'weight':100}},
-        'MAT240': {'LEC1' :{'days' : ['T','Th'], 'hour': '10:30', 'weight' :100}},
-        'MAT442': {'LEC1' :{'days' : ['T','Th'], 'hour': '14:00', 'weight' :100}},       
+#        'EED206': {'LEC1' :{'days' : ['M','W','F'], 'hour': '08:00', 'weight':100}},
+#        'MAT240': {'LEC1' :{'days' : ['T','Th'], 'hour': '10:30', 'weight' :100}},
+#        'MAT442': {'LEC1' :{'days' : ['T','Th'], 'hour': '14:00', 'weight' :100}},       
         }
 
 prefSlotXml = ''

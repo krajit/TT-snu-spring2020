@@ -43,12 +43,19 @@ LectureTag1Col = 55
 UWELecCol = 60
 UWETutCol = 61
 UWEPracCol = 62
+skipThisCourse = 63
+
 
 courseList = dict()
 deptListOfInstructors = dict()
 
 for i in range(2,sheet.nrows):    
     cCode = sheet.cell_value(i,CourseCode)
+    
+    #skip some rows
+    if (sheet.cell_type(i,skipThisCourse) != xlrd.XL_CELL_EMPTY):
+        continue
+
     
     if (sheet.cell_type(i,deptCol) != xlrd.XL_CELL_EMPTY):
         dept = sheet.cell_value(i,deptCol)
@@ -100,8 +107,9 @@ for i in range(2,sheet.nrows):
         
         deptListOfInstructors[dept] = deptListOfInstructors[dept].union(courseList[cCode]['lecSections'][seci]['instructors'])
         courseList[cCode]['lecSections'][seci]['potentialStudents'] = set()
-        if (sheet.cell_type(i,lecStudentsColumn) != xlrd.XL_CELL_EMPTY):        
-            courseList[cCode]['lecSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,lecStudentsColumn).split(','))
+        if (sheet.cell_type(i,lecStudentsColumn) != xlrd.XL_CELL_EMPTY):
+            if (sheet.cell_value(i,lecStudentsColumn) != ''):
+                courseList[cCode]['lecSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,lecStudentsColumn).split(','))
         courseList[cCode]['lecSections'][seci]['students'] = set()
         
         if 'activityTags' not in courseList[cCode]['lecSections'][seci]:
@@ -140,7 +148,8 @@ for i in range(2,sheet.nrows):
 
         courseList[cCode]['tutSections'][seci]['potentialStudents'] = set()
         if (sheet.cell_type(i,tutStudentsColumn) != xlrd.XL_CELL_EMPTY):        
-            courseList[cCode]['tutSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,tutStudentsColumn).split(','))
+            if (sheet.cell_value(i,tutStudentsColumn) != ''):
+                courseList[cCode]['tutSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,tutStudentsColumn).split(','))
         courseList[cCode]['tutSections'][seci]['students'] = set()
         
         # add UWE studetns i
@@ -168,7 +177,8 @@ for i in range(2,sheet.nrows):
         deptListOfInstructors[dept] = deptListOfInstructors[dept].union(courseList[cCode]['labSections'][seci]['instructors'])
         courseList[cCode]['labSections'][seci]['potentialStudents'] = set()
         if (sheet.cell_type(i,labStudentsColumn) != xlrd.XL_CELL_EMPTY):        
-            courseList[cCode]['labSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,labStudentsColumn).split(','))
+            if (sheet.cell_value(i,labStudentsColumn) != ''):
+                courseList[cCode]['labSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,labStudentsColumn).split(','))
         
         courseList[cCode]['labSections'][seci]['room'] =  sheet.cell_value(i,LabRoomNumber)
         courseList[cCode]['labSections'][seci]['students'] = set()
