@@ -82,7 +82,7 @@ print('......')
 print('Adding students in major electives ......')
 print('......')
 
-maxMajorElectives = 3
+maxMajorElectives = 2
 enrolledMajorElectives = dict()
 for y in studentGroups:
     for s in studentGroups[y]:
@@ -109,9 +109,9 @@ for ci in courseList:
         # increase maxMajorElectives for all except CSE
         # overlap MAT494 with CSD311
         if (s[0:3] != 'CSE'):
-            maxMajorElectives = 10
+            maxMajorElectives = 2
             if (s[0:3] == 'MAT'):
-                maxMajorElectives = 5
+                maxMajorElectives = 2
         else:
             maxMajorElectives = 3
         
@@ -215,6 +215,12 @@ for cIndex, c in courseList.items():
             activityTag = lIndex #'LEC+AnyRoom+'+lIndex
             activityTagSet.add(activityTag)
             activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
+
+            if cIndex[0:3] != "CCC":
+                activityTagSet.add(cIndex[0:3])
+                activityXML = activityXML + '\t<Activity_Tag>'+cIndex[0:3]+'</Activity_Tag>\n'
+                activityTagSet.add(cIndex[0:4])
+                activityXML = activityXML + '\t<Activity_Tag>'+cIndex[0:4]+'</Activity_Tag>\n'
             
             if (cIndex[0:3] == 'CCC'):
                 activityTag = 'CCC'
@@ -267,6 +273,14 @@ for cIndex, c in courseList.items():
             activityTag = lIndex #'TUT+AnyRoom+'+lIndex
             activityTagSet.add(activityTag)
             activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
+            
+            
+            if cIndex[0:3] != "CCC":
+                activityTagSet.add(cIndex[0:3])
+                activityXML = activityXML + '\t<Activity_Tag>'+cIndex[0:3]+'</Activity_Tag>\n'
+                activityTagSet.add(cIndex[0:4])
+                activityXML = activityXML + '\t<Activity_Tag>'+cIndex[0:4]+'</Activity_Tag>\n'
+
 
             if (cIndex[0:3] == 'CCC'):
                 activityTag = 'CCC'
@@ -309,6 +323,17 @@ for cIndex, c in courseList.items():
             activityTag = l['room'][0:4] #'LAB' +'+'+ l['room'][0:4]+'+'+lIndex
             activityTagSet.add(activityTag)
             activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
+            
+            activityTagSet.add("Lab")
+            activityXML = activityXML + '\t<Activity_Tag>'+"Lab"+'</Activity_Tag>\n'
+
+            
+            if cIndex[0:3] != "CCC":
+                activityTagSet.add(cIndex[0:3])
+                activityXML = activityXML + '\t<Activity_Tag>'+cIndex[0:3]+'</Activity_Tag>\n'
+                activityTagSet.add(cIndex[0:4])
+                activityXML = activityXML + '\t<Activity_Tag>'+cIndex[0:4]+'</Activity_Tag>\n'
+
 
             if (cIndex[0:3] == 'CCC'):
                 activityTag = 'CCC'
