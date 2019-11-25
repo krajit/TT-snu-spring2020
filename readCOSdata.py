@@ -40,6 +40,7 @@ LabRoomNumber	=	29
 LabCapacity	=	30
 CourseCoordinator	=	38
 LectureTag1Col = 55
+LectureTag2Col = 56   # put same tags to overlapping lectures and tutorials
 UWELecCol = 60
 UWETutCol = 61
 UWEPracCol = 62
@@ -117,6 +118,9 @@ for i in range(2,sheet.nrows):
             
         if (sheet.cell_type(i,LectureTag1Col) != xlrd.XL_CELL_EMPTY):
             courseList[cCode]['lecSections'][seci]['activityTags'].add(sheet.cell_value(i,LectureTag1Col))
+            
+        if (sheet.cell_type(i,LectureTag2Col) != xlrd.XL_CELL_EMPTY):
+            courseList[cCode]['lecSections'][seci]['activityTags'].add(sheet.cell_value(i,LectureTag2Col))
            
            
         # add UWE studetns i
@@ -152,6 +156,18 @@ for i in range(2,sheet.nrows):
                 courseList[cCode]['tutSections'][seci]['potentialStudents'] = set(sheet.cell_value(i,tutStudentsColumn).split(','))
         courseList[cCode]['tutSections'][seci]['students'] = set()
         
+        
+        if 'activityTags' not in courseList[cCode]['tutSections'][seci]:
+            courseList[cCode]['tutSections'][seci]['activityTags'] = set()
+        
+        if (sheet.cell_type(i,LectureTag1Col) != xlrd.XL_CELL_EMPTY):
+            courseList[cCode]['tutSections'][seci]['activityTags'].add(sheet.cell_value(i,LectureTag1Col))
+        if (sheet.cell_type(i,LectureTag2Col) != xlrd.XL_CELL_EMPTY):
+            courseList[cCode]['tutSections'][seci]['activityTags'].add(sheet.cell_value(i,LectureTag2Col))
+
+
+
+        
         # add UWE studetns i
         if (sheet.cell_type(i,UWETutCol) != xlrd.XL_CELL_EMPTY):
             studentsList =  sheet.cell_value(i,UWETutCol)
@@ -183,6 +199,14 @@ for i in range(2,sheet.nrows):
         courseList[cCode]['labSections'][seci]['room'] =  sheet.cell_value(i,LabRoomNumber)
         courseList[cCode]['labSections'][seci]['students'] = set()
     
+        if 'activityTags' not in courseList[cCode]['labSections'][seci]:
+            courseList[cCode]['labSections'][seci]['activityTags'] = set()
+        
+        if (sheet.cell_type(i,LectureTag1Col) != xlrd.XL_CELL_EMPTY):
+            courseList[cCode]['labSections'][seci]['activityTags'].add(sheet.cell_value(i,LectureTag1Col))
+        if (sheet.cell_type(i,LectureTag2Col) != xlrd.XL_CELL_EMPTY):
+            courseList[cCode]['labSections'][seci]['activityTags'].add(sheet.cell_value(i,LectureTag2Col))
+
     
             # add UWE studetns i
         if (sheet.cell_type(i,UWEPracCol) != xlrd.XL_CELL_EMPTY):

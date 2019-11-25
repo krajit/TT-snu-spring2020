@@ -82,7 +82,7 @@ print('......')
 print('Adding students in major electives ......')
 print('......')
 
-maxMajorElectives = 2
+maxMajorElectives = 3
 enrolledMajorElectives = dict()
 for y in studentGroups:
     for s in studentGroups[y]:
@@ -111,7 +111,7 @@ for ci in courseList:
         if (s[0:3] != 'CSE'):
             maxMajorElectives = 2
             if (s[0:3] == 'MAT'):
-                maxMajorElectives = 2
+                maxMajorElectives = 3
         else:
             maxMajorElectives = 3
         
@@ -272,7 +272,11 @@ for cIndex, c in courseList.items():
                 activityXML = activityXML + '\t<Teacher>'+i+'</Teacher>\n'
             activityTag = lIndex #'TUT+AnyRoom+'+lIndex
             activityTagSet.add(activityTag)
-            activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
+            
+            for aTag in l['activityTags']:
+                activityTagSet.add(aTag)
+                activityXML = activityXML + '\t<Activity_Tag>'+aTag+'</Activity_Tag>\n'
+#            activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
             
             
             if cIndex[0:3] != "CCC":
@@ -322,7 +326,10 @@ for cIndex, c in courseList.items():
                 activityXML = activityXML + '\t<Teacher>'+i+'</Teacher>\n'
             activityTag = l['room'][0:4] #'LAB' +'+'+ l['room'][0:4]+'+'+lIndex
             activityTagSet.add(activityTag)
-            activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
+
+            for aTag in l['activityTags']:
+                activityTagSet.add(aTag)
+                activityXML = activityXML + '\t<Activity_Tag>'+aTag+'</Activity_Tag>\n'
             
             activityTagSet.add("Lab")
             activityXML = activityXML + '\t<Activity_Tag>'+"Lab"+'</Activity_Tag>\n'
