@@ -82,7 +82,7 @@ print('......')
 print('Adding students in major electives ......')
 print('......')
 
-maxMajorElectives = 3
+maxMajorElectives = 10
 enrolledMajorElectives = dict()
 for y in studentGroups:
     for s in studentGroups[y]:
@@ -108,13 +108,13 @@ for ci in courseList:
     for s in cStudents:
         # increase maxMajorElectives for all except CSE
         # overlap MAT494 with CSD311
-        if (s[0:3] != 'CSE'):
-            maxMajorElectives = 2
-            if (s[0:3] == 'MAT'):
-                maxMajorElectives = 3
-        else:
-            maxMajorElectives = 3
-        
+#        if (s[0:3] != 'CSE'):
+#            maxMajorElectives = 3
+#            if (s[0:3] == 'MAT'):
+#                maxMajorElectives = 3
+#        else:
+#            maxMajorElectives = 3
+#        
         
         if len(enrolledMajorElectives[s]) >= maxMajorElectives: # dont enroll s in ci
             print('Student group', s, 'not added in ', ci, 'because too many major electives.\nManually add',
@@ -239,8 +239,12 @@ for cIndex, c in courseList.items():
             lecDuration = str(c['LectureDuration'])
             if (cIndex[0:3] == 'CCC'):
                 lecDuration = '3'            
+               
                 
+            activityTagSet.add('LecTTh')
             splitDuration = splitLec(totalDuration,lecDuration)
+            if splitDuration == '3+3':
+                activityXML = activityXML + '\t<Activity_Tag>LecTTh</Activity_Tag>\n'
             activityXML = activityXML + '\t<Duration>'+splitDuration[0]+'</Duration>\n'
             activityXML = activityXML + '\t<Total_Duration>'+totalDuration+'</Total_Duration>\n'
                 
@@ -278,6 +282,8 @@ for cIndex, c in courseList.items():
                 activityXML = activityXML + '\t<Activity_Tag>'+aTag+'</Activity_Tag>\n'
 #            activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
             
+            activityTagSet.add('tutorial')
+            activityXML = activityXML + '\t<Activity_Tag>tutorial</Activity_Tag>\n'
             
             if cIndex[0:3] != "CCC":
                 activityTagSet.add(cIndex[0:3])

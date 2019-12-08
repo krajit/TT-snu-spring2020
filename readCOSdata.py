@@ -129,7 +129,8 @@ for i in range(2,sheet.nrows):
             studentsList = studentsList.split(',')
             studentSet = set()
             for s in studentsList:
-                ss = studentSet.union(set(studentSubGroups[s].split(',')))
+                #ss = studentSet.union(set(studentSubGroups[s].split(',')))
+                ss = studentSet.union(set(studentsList))
                 courseList[cCode]['lecSections'][seci]['students'] = courseList[cCode]['lecSections'][seci]['students'].union(ss)
                 
             
@@ -174,7 +175,8 @@ for i in range(2,sheet.nrows):
             studentsList = studentsList.split(',')
             studentSet = set()
             for s in studentsList:
-                ss = studentSet.union(set(studentSubGroups[s].split(',')))
+                #ss = studentSet.union(set(studentSubGroups[s].split(',')))
+                ss = studentSet.union(set(studentsList))
                 courseList[cCode]['tutSections'][seci]['students'] = courseList[cCode]['tutSections'][seci]['students'].union(ss)
 
 
@@ -214,7 +216,8 @@ for i in range(2,sheet.nrows):
             studentsList = studentsList.split(',')
             studentSet = set()
             for s in studentsList:
-                ss = studentSet.union(set(studentSubGroups[s].split(',')))
+                #ss = studentSet.union(set(studentSubGroups[s].split(',')))
+                ss = studentSet.union(set(studentsList))
                 courseList[cCode]['labSections'][seci]['students'] = courseList[cCode]['labSections'][seci]['students'].union(ss)
 
 

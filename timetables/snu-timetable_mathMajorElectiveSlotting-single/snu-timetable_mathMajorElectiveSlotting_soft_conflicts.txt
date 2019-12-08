@@ -1,0 +1,19 @@
+﻿Soft conflicts of snu-timetable_mathMajorElectiveSlotting.fet
+Generated with FET 5.37.5 on 12/9/19 2:33 AM
+
+Number of broken soft constraints: 9
+Total soft conflicts: 8.1
+
+Soft conflicts list (in decreasing order):
+
+Time constraint activities preferred starting times broken for activity with id=50 (T:Gopal Das Singhal[20500079], S:CED207, AT:Lab,CED,CED2, St:), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=88 (T:Sanjeev Yadav[20500213], S:CHD323, AT:Lab,CHD,CHD3, St:CHD3), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=116 (T:Debdas Ray[20500191],Biswajit Guchhait[20501118],Parthapratim Munshi[20500205], S:CHY214, AT:Lab,CHY,CHY2, St:BIO2,CHY2), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=204 (T:Prakash Kumar[20500290], S:DES111, AT:Lab,DES,DES1, St:MED2,ECE22,ECE21), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=294 (T:Rohit Singh[20501073],KOTHA VENUGOPALACHARY[1610120125], S:EED308, AT:Lab,EED,EED3, St:EEE3), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=329 (T:Harikesh Rawat[1510120020],Madhukar P Dave[20500761], S:EED402, AT:Lab,EED,EED4, St:), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=524 (T:Sathi Rajesh Reddy[20500731], S:MED404, AT:Lab,MED,MED4, St:MED31), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=574 (T:Aloke Kanjilal[20500143],BISWESWAR SANTRA[1910120061],ANANYA CHATTARAJ[1710120051], S:PHY208, AT:Lab,PHY,PHY2, St:PHY2), increases conflicts total by 0.9
+Time constraint activities preferred starting times broken for activity with id=585 (T:Sajal Kumar Ghosh[20500246],VIKASH SHARMA[1810120102],YOGESH YADAV[1710120094], S:PHY308, AT:Lab,PHY,PHY3, St:PHY3), increases conflicts total by 0.9
+
+End of file.
