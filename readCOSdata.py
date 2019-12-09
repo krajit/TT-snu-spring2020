@@ -55,7 +55,8 @@ for i in range(2,sheet.nrows):
     
     #skip some rows
     if (sheet.cell_type(i,skipThisCourse) != xlrd.XL_CELL_EMPTY):
-        continue
+        if 'yes' in sheet.cell_value(i,skipThisCourse):
+            continue
 
     
     if (sheet.cell_type(i,deptCol) != xlrd.XL_CELL_EMPTY):
