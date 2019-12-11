@@ -88317,37 +88317,37 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
-     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30">
-     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00">
-     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
      
     </Hour>
     <Hour name="15:30">
-     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -88530,10 +88530,10 @@
      
     </Hour>
     <Hour name="15:30">
-     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -88565,10 +88565,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="12:00">
      <Subject name="BIO207"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO2"></Activity_Tag><Students name="BIO2"></Students>
@@ -88583,22 +88583,22 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="BIO113"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="BIO"></Activity_Tag><Activity_Tag name="BIO1"></Activity_Tag><Students name="CHD1"></Students>
     </Hour>
     <Hour name="17:00">
      
