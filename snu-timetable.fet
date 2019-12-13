@@ -10667,8 +10667,8 @@
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
 	<Students>INT1</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
+	<Duration>3</Duration>
+	<Total_Duration>8</Total_Duration>
 	<Id>415</Id>
 	<Activity_Group_Id>415</Activity_Group_Id>
 	<Active>true</Active>
@@ -10681,8 +10681,8 @@
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
 	<Students>INT1</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
+	<Duration>3</Duration>
+	<Total_Duration>8</Total_Duration>
 	<Id>416</Id>
 	<Activity_Group_Id>415</Activity_Group_Id>
 	<Active>true</Active>
@@ -10696,10 +10696,10 @@
 	<Activity_Tag>INT1</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
+	<Total_Duration>8</Total_Duration>
 	<Id>417</Id>
 	<Activity_Group_Id>415</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -52255,42 +52255,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>415</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>09:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>416</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>09:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>417</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>09:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>418</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>419</Activity_Id>
 	<Preferred_Day>T</Preferred_Day>
 	<Preferred_Hour>14:30</Preferred_Hour>
@@ -57399,6 +57363,40 @@
 	<Activity_Id>269</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Kaveri Gill[20500669]</Teacher_Name>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>416</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>415</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>418</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>09:30</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

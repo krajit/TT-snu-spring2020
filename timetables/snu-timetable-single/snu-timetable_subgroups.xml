@@ -5001,7 +5001,7 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
@@ -5128,10 +5128,10 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -5187,13 +5187,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
       <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag><Activity_Tag name="LecTTh"></Activity_Tag>
@@ -5252,10 +5252,10 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
      
