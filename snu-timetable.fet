@@ -18212,39 +18212,7 @@
 </ConstraintBasicCompulsoryTime>
 <ConstraintBreakTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Break_Times>14</Number_of_Break_Times>
-	<Break_Time>
-		<Day>M</Day>
-		<Hour>08:00</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>M</Day>
-		<Hour>08:30</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>T</Day>
-		<Hour>08:00</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>T</Day>
-		<Hour>08:30</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>W</Day>
-		<Hour>08:00</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>W</Day>
-		<Hour>08:30</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>Th</Day>
-		<Hour>08:00</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>Th</Day>
-		<Hour>08:30</Hour>
-	</Break_Time>
+	<Number_of_Break_Times>4</Number_of_Break_Times>
 	<Break_Time>
 		<Day>Th</Day>
 		<Hour>12:00</Hour>
@@ -18260,14 +18228,6 @@
 	<Break_Time>
 		<Day>Th</Day>
 		<Hour>13:30</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>F</Day>
-		<Hour>08:00</Hour>
-	</Break_Time>
-	<Break_Time>
-		<Day>F</Day>
-		<Hour>08:30</Hour>
 	</Break_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -30537,47 +30497,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Ranendra Narayan Biswas[20500321]</Teacher>
-	<Number_of_Not_Available_Times>10</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>13:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>13:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>13:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>13:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>13:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>
@@ -51093,33 +51013,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>269</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>17:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>270</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>17:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>271</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>17:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>272</Activity_Id>
 	<Preferred_Day>Th</Preferred_Day>
 	<Preferred_Hour>09:30</Preferred_Hour>
@@ -57428,6 +57321,84 @@
 	<Activity_Id>7</Activity_Id>
 	<Preferred_Day>M</Preferred_Day>
 	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>EED204</Subject_Name>
+	<Activity_Tag_Name>LEC1</Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>10</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>M</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>M</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>T</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>T</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>W</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>W</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>F</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>F</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>270</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>271</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>269</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

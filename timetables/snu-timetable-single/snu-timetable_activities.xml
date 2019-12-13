@@ -1550,20 +1550,20 @@
 </Activity>
 <Activity>
 	<Id>269</Id>
-	<Day>M</Day>
-	<Hour>17:00</Hour>
+	<Day>F</Day>
+	<Hour>08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>270</Id>
-	<Day>W</Day>
-	<Hour>17:00</Hour>
+	<Day>M</Day>
+	<Hour>08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>271</Id>
-	<Day>F</Day>
-	<Hour>17:00</Hour>
+	<Day>W</Day>
+	<Hour>08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>

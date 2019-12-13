@@ -75507,10 +75507,10 @@
   <Teacher name="Ranendra Narayan Biswas[20500321]">
    <Day name="M">
     <Hour name="08:00">
-     
+     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
     </Hour>
     <Hour name="08:30">
-     
+     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
     </Hour>
     <Hour name="09:00">
      
@@ -75561,10 +75561,10 @@
      
     </Hour>
     <Hour name="17:00">
-     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
+     
     </Hour>
     <Hour name="17:30">
-     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
+     
     </Hour>
    </Day>
    <Day name="T">
@@ -75631,10 +75631,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
     </Hour>
     <Hour name="08:30">
-     
+     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
     </Hour>
     <Hour name="09:00">
      
@@ -75685,10 +75685,10 @@
      
     </Hour>
     <Hour name="17:00">
-     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
+     
     </Hour>
     <Hour name="17:30">
-     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
+     
     </Hour>
    </Day>
    <Day name="Th">
@@ -75755,10 +75755,10 @@
    </Day>
    <Day name="F">
     <Hour name="08:00">
-     
+     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
     </Hour>
     <Hour name="08:30">
-     
+     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
     </Hour>
     <Hour name="09:00">
      
@@ -75809,10 +75809,10 @@
      <Subject name="EED308"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED3"></Activity_Tag><Students name="ECE31"></Students>
     </Hour>
     <Hour name="17:00">
-     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
+     
     </Hour>
     <Hour name="17:30">
-     <Subject name="EED204"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED2"></Activity_Tag><Students name="ECE22"></Students><Students name="ECE21"></Students><Students name="EEE2"></Students>
+     
     </Hour>
    </Day>
   </Teacher>
