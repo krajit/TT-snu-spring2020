@@ -1010,6 +1010,10 @@
 	<Name>Lunch</Name>
 	<Comments></Comments>
 </Subject>
+<Subject>
+	<Name>ECO335</Name>
+	<Comments></Comments>
+</Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
@@ -1764,62 +1768,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>ABHINAVA SRIVASTAVA[1910120047]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>AN FELICSONA[1810120121]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>ANANYA CHATTARAJ[1710120051]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>ANIRBAN BHATTACHARYYA[1710120052]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>ARITRA LAHA[1810120053]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>ASHUTOSH DHEER[1910120055]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>AVIJIT MAINAN[1910120056]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>AYANA SARKAR[1710120055]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Aakash Kishore Sinha[20500738]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1835,6 +1783,13 @@
 </Teacher>
 <Teacher>
 	<Name>Abhimanyu Khan[20500783]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ABHINAVA SRIVASTAVA[1910120047]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1897,6 +1852,20 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>AN FELICSONA[1810120121]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ANANYA CHATTARAJ[1710120051]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Animesh Samanta[20501079]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1905,6 +1874,13 @@
 </Teacher>
 <Teacher>
 	<Name>Anindita Chakrabarty[20500316]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ANIRBAN BHATTACHARYYA[1710120052]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1939,6 +1915,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>ARITRA LAHA[1810120053]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Ashish Gupta[20500190]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1947,6 +1930,13 @@
 </Teacher>
 <Teacher>
 	<Name>Ashokankur Datta[20500130]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ASHUTOSH DHEER[1910120055]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1981,14 +1971,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>BISHWAJIT MANDAL[1910120059]</Name>
+	<Name>AVIJIT MAINAN[1910120056]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>BISWESWAR SANTRA[1910120061]</Name>
+	<Name>AYANA SARKAR[1710120055]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2023,6 +2013,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>BISHWAJIT MANDAL[1910120059]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Biswajit Guchhait[20501118]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2030,14 +2027,7 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>CHY122TA</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>CHY222TA</Name>
+	<Name>BISWESWAR SANTRA[1910120061]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2058,7 +2048,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>DHIRENDRA SAHOO[1710120099]</Name>
+	<Name>CHY122TA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CHY222TA</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2094,6 +2091,13 @@
 </Teacher>
 <Teacher>
 	<Name>Dhiraj Kumar Garg[20500374]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DHIRENDRA SAHOO[1710120099]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2345,13 +2349,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>GUNJAN SHARMA[1910120136]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Gatha Sharma[20500031]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2381,6 +2378,13 @@
 </Teacher>
 <Teacher>
 	<Name>Gopinath Perumal[1610120127]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>GUNJAN SHARMA[1910120136]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2422,14 +2426,21 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Himanshu Sekhar Sahu[20500946]</Name>
+	<Name>harpreet Singh Grewal[20500440]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>IRALA KUMAR[1910120138]</Name>
+	<Name>hemanth kadambi[20501041]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Himanshu Sekhar Sahu[20500946]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2443,14 +2454,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>J Venkatramani[20500736]</Name>
+	<Name>IRALA KUMAR[1910120138]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>JOSHUA ASIRVATHAM[1710120064]</Name>
+	<Name>J Venkatramani[20500736]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2499,14 +2510,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Jyoti Singh Kirar[20500802]</Name>
+	<Name>JOSHUA ASIRVATHAM[1710120064]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>KOTHA VENUGOPALACHARY[1610120125]</Name>
+	<Name>Jyoti Singh Kirar[20500802]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -2576,6 +2587,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>KOTHA VENUGOPALACHARY[1610120125]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Koyeli Mapa[20500426]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2597,14 +2615,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>LUBNA KHANAM[1710120067]</Name>
+	<Name>Lal Mohan Saha[20500014]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Lal Mohan Saha[20500014]</Name>
+	<Name>LUBNA KHANAM[1710120067]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3150,6 +3168,27 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>Madan Gopal[20500044]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Madhukar P Dave[20500761]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Madhur Deo Upadhayay[20500212]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>MAMTA ARYA[1710120069]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3158,6 +3197,13 @@
 </Teacher>
 <Teacher>
 	<Name>MANALI SAINI[1810120068]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Manasi Mishra[20500573]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3241,41 +3287,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>MKT406Ins</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>Madan Gopal[20500044]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>Madhukar P Dave[20500761]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>Madhur Deo Upadhayay[20500212]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>Manasi Mishra[20500573]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Meera visvanathan[20500357]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3283,14 +3294,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>N. Sukumar[20500050]</Name>
+	<Name>MKT406Ins</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>NEELNISITH KAMILA[1910120141]</Name>
+	<Name>N. Sukumar[20500050]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3305,6 +3316,13 @@
 </Teacher>
 <Teacher>
 	<Name>Naveen Babu G[20500517]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NEELNISITH KAMILA[1910120141]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3326,13 +3344,6 @@
 </Teacher>
 <Teacher>
 	<Name>Niteesh Sahni[20500011]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>PRIYANKA MATHUR[1910120098]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3409,21 +3420,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>PRIYANKA MATHUR[1910120098]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>RAHUL GHOSH[1910120144]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>RITIKA GUPTA[1710120083]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>RUPALI BARANWAL[1910120106]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3438,6 +3442,13 @@
 </Teacher>
 <Teacher>
 	<Name>Rakesh Kumar[20500918]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ram Ranjan</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3472,6 +3483,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>RITIKA GUPTA[1710120083]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Rohini Garg[20500633]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3486,49 +3504,7 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>SARAH HAQ[1710120120]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>SHAMMI KUMAR[1810120086]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>SOURAV SAHA[1910120166]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>SOURAV SAIN[1910120122]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>SUDIPTA CHOUDHURY[1810120093]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>SUNIL KUMAR[1910120127]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>SURAJIT ADHIKARI[1910120128]</Name>
+	<Name>RUPALI BARANWAL[1910120106]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3612,6 +3588,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>SARAH HAQ[1710120120]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Saroj Kaushik[20501117]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3662,6 +3645,13 @@
 </Teacher>
 <Teacher>
 	<Name>Shalu Kalra[20500226]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SHAMMI KUMAR[1810120086]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3738,6 +3728,20 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>SOURAV SAHA[1910120166]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SOURAV SAIN[1910120122]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Sri Krishna Jayadev Magani[20500054]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3801,6 +3805,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>SUDIPTA CHOUDHURY[1810120093]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Sumantra Sengupta</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3816,6 +3827,20 @@
 </Teacher>
 <Teacher>
 	<Name>Sumit Tiwari[20501098]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SUNIL KUMAR[1910120127]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SURAJIT ADHIKARI[1910120128]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3913,13 +3938,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>VIKASH SHARMA[1810120102]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Vasundhara Bhojvaid[20501005]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3948,6 +3966,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>VIKASH SHARMA[1810120102]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Vikram Kapur[20500186]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3969,13 +3994,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>YOGESH YADAV[1710120094]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Yamini Sudha Sistla[20500907]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3983,14 +4001,7 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>harpreet Singh Grewal[20500440]</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>hemanth kadambi[20501041]</Name>
+	<Name>YOGESH YADAV[1710120094]</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -17483,6 +17494,45 @@
 	<Duration>4</Duration>
 	<Total_Duration>4</Total_Duration>
 	<Id>961</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ram Ranjan</Teacher>
+	<Subject>ECO335</Subject>
+	<Activity_Tag>LEC1</Activity_Tag>
+	<Students>ECO3</Students>
+	<Students>ECO4</Students>
+	<Duration>3</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>962</Id>
+	<Activity_Group_Id>962</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ram Ranjan</Teacher>
+	<Subject>ECO335</Subject>
+	<Activity_Tag>LEC1</Activity_Tag>
+	<Students>ECO3</Students>
+	<Students>ECO4</Students>
+	<Duration>3</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>963</Id>
+	<Activity_Group_Id>962</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ram Ranjan</Teacher>
+	<Subject>ECO335</Subject>
+	<Activity_Tag>tutorial</Activity_Tag>
+	<Students>ECO3</Students>
+	<Students>ECO4</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>964</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -56866,6 +56916,51 @@
 	<Activity_Id>643</Activity_Id>
 	<Preferred_Day>T</Preferred_Day>
 	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>962</Activity_Id>
+	<Activity_Id>963</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesSameStartingHour>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>962</Activity_Id>
+	<Activity_Id>963</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingHour>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>962</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>963</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>964</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
