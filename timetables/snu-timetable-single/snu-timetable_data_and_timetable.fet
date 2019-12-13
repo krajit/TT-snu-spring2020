@@ -1539,11 +1539,6 @@
 	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
-	<Name>LecTTh</Name>
-	<Printable>true</Printable>
-	<Comments></Comments>
-</Activity_Tag>
-<Activity_Tag>
 	<Name>MAT</Name>
 	<Printable>true</Printable>
 	<Comments></Comments>
@@ -4876,7 +4871,6 @@
 	<Subject>CCC608</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CCC</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>year1</Students>
 	<Students>year2</Students>
 	<Students>year4</Students>
@@ -4920,7 +4914,6 @@
 	<Subject>CCC608</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CCC</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>year1</Students>
 	<Students>year2</Students>
 	<Students>year4</Students>
@@ -5192,7 +5185,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5207,7 +5199,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5291,7 +5282,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5306,7 +5296,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5363,7 +5352,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5378,7 +5366,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5393,7 +5380,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5408,7 +5394,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5462,7 +5447,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5477,7 +5461,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CED</Activity_Tag>
 	<Activity_Tag>CED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5615,7 +5598,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5630,7 +5612,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5645,7 +5626,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5660,7 +5640,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5731,7 +5710,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5746,7 +5724,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5761,7 +5738,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -5776,7 +5752,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHD</Activity_Tag>
 	<Activity_Tag>CHD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHD3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -6199,7 +6174,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHY</Activity_Tag>
 	<Activity_Tag>CHY2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BIO3</Students>
 	<Students>CHY2</Students>
 	<Duration>3</Duration>
@@ -6215,7 +6189,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHY</Activity_Tag>
 	<Activity_Tag>CHY2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BIO3</Students>
 	<Students>CHY2</Students>
 	<Duration>3</Duration>
@@ -6418,7 +6391,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHY</Activity_Tag>
 	<Activity_Tag>CHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHY3</Students>
 	<Students>CHY4</Students>
 	<Duration>3</Duration>
@@ -6435,7 +6407,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHY</Activity_Tag>
 	<Activity_Tag>CHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHY3</Students>
 	<Students>CHY4</Students>
 	<Duration>3</Duration>
@@ -6626,7 +6597,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHY</Activity_Tag>
 	<Activity_Tag>CHY4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHY4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -6642,7 +6612,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CHY</Activity_Tag>
 	<Activity_Tag>CHY4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHY4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -6730,7 +6699,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>COM</Activity_Tag>
 	<Activity_Tag>COM1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>157</Id>
@@ -6744,7 +6712,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>COM</Activity_Tag>
 	<Activity_Tag>COM1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>158</Id>
@@ -6784,7 +6751,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED1</Students>
 	<Students>CHD1</Students>
 	<Students>MAT1</Students>
@@ -6803,7 +6769,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CED1</Students>
 	<Students>CHD1</Students>
 	<Students>MAT1</Students>
@@ -6853,7 +6818,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD11</Students>
 	<Students>CSD12</Students>
 	<Students>CSD13</Students>
@@ -6870,7 +6834,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD11</Students>
 	<Students>CSD12</Students>
 	<Students>CSD13</Students>
@@ -6887,7 +6850,6 @@
 	<Activity_Tag>LEC2</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE11</Students>
 	<Students>ECE12</Students>
 	<Students>MAT2</Students>
@@ -6906,7 +6868,6 @@
 	<Activity_Tag>LEC2</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE11</Students>
 	<Students>ECE12</Students>
 	<Students>MAT2</Students>
@@ -6985,7 +6946,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD22</Students>
 	<Students>CSD21</Students>
 	<Duration>3</Duration>
@@ -7001,7 +6961,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD22</Students>
 	<Students>CSD21</Students>
 	<Duration>3</Duration>
@@ -7032,7 +6991,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD21</Students>
 	<Students>CSD22</Students>
 	<Students>ECE31</Students>
@@ -7051,7 +7009,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD21</Students>
 	<Students>CSD22</Students>
 	<Students>ECE31</Students>
@@ -7161,7 +7118,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD22</Students>
 	<Students>CSD21</Students>
 	<Duration>3</Duration>
@@ -7177,7 +7133,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD22</Students>
 	<Students>CSD21</Students>
 	<Duration>3</Duration>
@@ -7222,7 +7177,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD32</Students>
 	<Students>CSD31</Students>
 	<Duration>3</Duration>
@@ -7239,7 +7193,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD32</Students>
 	<Students>CSD31</Students>
 	<Duration>3</Duration>
@@ -7270,7 +7223,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD32</Students>
 	<Students>CSD31</Students>
 	<Duration>3</Duration>
@@ -7286,7 +7238,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>CSD</Activity_Tag>
 	<Activity_Tag>CSD3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CSD32</Students>
 	<Students>CSD31</Students>
 	<Duration>3</Duration>
@@ -7620,7 +7571,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Students>BIO2</Students>
 	<Duration>3</Duration>
@@ -7636,7 +7586,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Students>BIO2</Students>
 	<Duration>3</Duration>
@@ -7680,7 +7629,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO1</Students>
 	<Students>ECE22</Students>
 	<Students>ECE21</Students>
@@ -7697,7 +7645,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO1</Students>
 	<Students>ECE22</Students>
 	<Students>ECE21</Students>
@@ -7782,7 +7729,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -7797,7 +7743,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -7852,7 +7797,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>229</Id>
@@ -7866,7 +7810,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>230</Id>
@@ -7906,7 +7849,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
@@ -7922,7 +7864,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
@@ -7986,7 +7927,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
@@ -8002,7 +7942,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
@@ -8018,7 +7957,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -8033,7 +7971,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -8062,7 +7999,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>CHD3</Students>
 	<Students>ECO3</Students>
@@ -8079,7 +8015,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>CHD3</Students>
 	<Students>ECO3</Students>
@@ -8096,7 +8031,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO2</Students>
 	<Duration>3</Duration>
@@ -8112,7 +8046,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ECO</Activity_Tag>
 	<Activity_Tag>ECO4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO2</Students>
 	<Duration>3</Duration>
@@ -9083,7 +9016,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9098,7 +9030,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9113,7 +9044,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Duration>3</Duration>
@@ -9129,7 +9059,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Duration>3</Duration>
@@ -9145,7 +9074,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Duration>3</Duration>
@@ -9161,7 +9089,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Duration>3</Duration>
@@ -9177,7 +9104,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9192,7 +9118,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9207,7 +9132,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Duration>3</Duration>
@@ -9223,7 +9147,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Duration>3</Duration>
@@ -9239,7 +9162,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Students>EEE4</Students>
@@ -9256,7 +9178,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>EED</Activity_Tag>
 	<Activity_Tag>EED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE42</Students>
 	<Students>ECE41</Students>
 	<Students>EEE4</Students>
@@ -9419,7 +9340,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>331</Id>
@@ -9433,7 +9353,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>332</Id>
@@ -9447,7 +9366,6 @@
 	<Activity_Tag>LEC2</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9462,7 +9380,6 @@
 	<Activity_Tag>LEC2</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9504,7 +9421,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Students>ENG1</Students>
 	<Duration>3</Duration>
@@ -9520,7 +9436,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Students>ENG1</Students>
 	<Duration>3</Duration>
@@ -9549,7 +9464,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9564,7 +9478,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9592,7 +9505,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9607,7 +9519,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9635,7 +9546,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9650,7 +9560,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9678,7 +9587,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9693,7 +9601,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9721,7 +9628,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9736,7 +9642,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9765,7 +9670,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9780,7 +9684,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9809,7 +9712,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9824,7 +9726,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9853,7 +9754,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9868,7 +9768,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9897,7 +9796,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG4</Students>
 	<Students>BIO2</Students>
 	<Duration>3</Duration>
@@ -9913,7 +9811,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG4</Students>
 	<Students>BIO2</Students>
 	<Duration>3</Duration>
@@ -9944,7 +9841,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9959,7 +9855,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>ENG</Activity_Tag>
 	<Activity_Tag>ENG4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ENG4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -9988,7 +9883,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS11</Students>
 	<Students>BMS12</Students>
 	<Duration>3</Duration>
@@ -10004,7 +9898,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS11</Students>
 	<Students>BMS12</Students>
 	<Duration>3</Duration>
@@ -10021,7 +9914,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10037,7 +9929,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10052,7 +9943,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS4</Students>
 	<Duration>3</Duration>
@@ -10068,7 +9958,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS4</Students>
 	<Duration>3</Duration>
@@ -10084,7 +9973,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
@@ -10100,7 +9988,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>FAC</Activity_Tag>
 	<Activity_Tag>FAC4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
@@ -10172,7 +10059,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10187,7 +10073,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10216,7 +10101,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10231,7 +10115,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10260,7 +10143,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10275,7 +10157,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10304,7 +10185,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10319,7 +10199,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10393,7 +10272,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS3</Students>
 	<Students>HIS4</Students>
 	<Duration>3</Duration>
@@ -10409,7 +10287,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS3</Students>
 	<Students>HIS4</Students>
 	<Duration>3</Duration>
@@ -10440,7 +10317,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS3</Students>
 	<Students>HIS4</Students>
 	<Duration>3</Duration>
@@ -10456,7 +10332,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS3</Students>
 	<Students>HIS4</Students>
 	<Duration>3</Duration>
@@ -10487,7 +10362,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS3</Students>
 	<Students>HIS4</Students>
 	<Duration>3</Duration>
@@ -10503,7 +10377,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>HIS</Activity_Tag>
 	<Activity_Tag>HIS3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>HIS3</Students>
 	<Students>HIS4</Students>
 	<Duration>3</Duration>
@@ -10534,7 +10407,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10549,7 +10421,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10578,7 +10449,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10593,7 +10463,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10622,7 +10491,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10637,7 +10505,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10722,7 +10589,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10737,7 +10603,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10766,7 +10631,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
@@ -10782,7 +10646,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECO4</Students>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
@@ -10813,7 +10676,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10828,7 +10690,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10857,7 +10718,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10872,7 +10732,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10901,7 +10760,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -10916,7 +10774,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>INT</Activity_Tag>
 	<Activity_Tag>INT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>INT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -11021,7 +10878,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHY1</Students>
 	<Students>MAT1</Students>
 	<Students>PHY1</Students>
@@ -11039,7 +10895,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>CHY1</Students>
 	<Students>MAT1</Students>
 	<Students>PHY1</Students>
@@ -11100,7 +10955,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE11</Students>
 	<Students>ECE12</Students>
 	<Students>CHD1</Students>
@@ -11125,7 +10979,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>EEE11</Students>
 	<Students>ECE12</Students>
 	<Students>CHD1</Students>
@@ -11402,7 +11255,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MAT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -11417,7 +11269,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MAT2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -11446,7 +11297,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MAT2</Students>
 	<Students>CHY2</Students>
 	<Duration>3</Duration>
@@ -11462,7 +11312,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MAT2</Students>
 	<Students>CHY2</Students>
 	<Duration>3</Duration>
@@ -11666,7 +11515,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT3</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MAT3</Students>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
@@ -11683,7 +11531,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT3</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MAT3</Students>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
@@ -11716,7 +11563,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT3</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-C</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE31</Students>
 	<Students>MAT3</Students>
 	<Students>CSD31</Students>
@@ -11735,7 +11581,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT3</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-C</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>ECE31</Students>
 	<Students>MAT3</Students>
 	<Students>CSD31</Students>
@@ -11772,7 +11617,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT4</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-C</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>486</Id>
@@ -11787,7 +11631,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT4</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-C</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>487</Id>
@@ -11816,7 +11659,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT4</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>489</Id>
@@ -11831,7 +11673,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT4</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>490</Id>
@@ -11860,7 +11701,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT4</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-C</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>492</Id>
@@ -11875,7 +11715,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT4</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-C</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>493</Id>
@@ -11960,7 +11799,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT5</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>499</Id>
@@ -11975,7 +11813,6 @@
 	<Activity_Tag>MAT</Activity_Tag>
 	<Activity_Tag>MAT5</Activity_Tag>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>500</Id>
@@ -12004,7 +11841,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -12020,7 +11856,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -12312,7 +12147,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12329,7 +12163,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12347,7 +12180,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12365,7 +12197,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12383,7 +12214,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12401,7 +12231,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12476,7 +12305,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12493,7 +12321,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
 	<Duration>3</Duration>
@@ -12510,7 +12337,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED43</Students>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
@@ -12530,7 +12356,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED43</Students>
 	<Students>MED31</Students>
 	<Students>MED32</Students>
@@ -12549,7 +12374,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED42</Students>
 	<Students>MED43</Students>
 	<Students>MED41</Students>
@@ -12566,7 +12390,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MED</Activity_Tag>
 	<Activity_Tag>MED4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>MED42</Students>
 	<Students>MED43</Students>
 	<Students>MED41</Students>
@@ -12583,7 +12406,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MGT</Activity_Tag>
 	<Activity_Tag>MGT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS11</Students>
 	<Students>BMS12</Students>
 	<Duration>3</Duration>
@@ -12599,7 +12421,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MGT</Activity_Tag>
 	<Activity_Tag>MGT1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS11</Students>
 	<Students>BMS12</Students>
 	<Duration>3</Duration>
@@ -12630,7 +12451,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MKT</Activity_Tag>
 	<Activity_Tag>MKT4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
@@ -12646,7 +12466,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MKT</Activity_Tag>
 	<Activity_Tag>MKT4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
@@ -12662,7 +12481,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MKT</Activity_Tag>
 	<Activity_Tag>MKT4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
@@ -12678,7 +12496,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MKT</Activity_Tag>
 	<Activity_Tag>MKT4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS2</Students>
 	<Duration>3</Duration>
@@ -12750,7 +12567,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MKT</Activity_Tag>
 	<Activity_Tag>MKT4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS4</Students>
 	<Duration>3</Duration>
@@ -12766,7 +12582,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MKT</Activity_Tag>
 	<Activity_Tag>MKT4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BMS3</Students>
 	<Students>BMS4</Students>
 	<Duration>3</Duration>
@@ -13490,7 +13305,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13505,7 +13319,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13534,7 +13347,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13549,7 +13361,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13578,7 +13389,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13593,7 +13403,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13652,7 +13461,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13667,7 +13475,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13682,7 +13489,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13697,7 +13503,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>PHY</Activity_Tag>
 	<Activity_Tag>PHY4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>PHY4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13712,7 +13517,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13727,7 +13531,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13770,7 +13573,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC1</Students>
 	<Students>ECO2</Students>
 	<Students>ENG1</Students>
@@ -13787,7 +13589,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC1</Students>
 	<Students>ECO2</Students>
 	<Students>ENG1</Students>
@@ -13820,7 +13621,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13835,7 +13635,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC1</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC1</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13864,7 +13663,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13879,7 +13677,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13908,7 +13705,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13923,7 +13719,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13953,7 +13748,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13968,7 +13762,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC2</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC2</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -13998,7 +13791,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -14013,7 +13805,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -14042,7 +13833,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BIO3</Students>
 	<Students>SOC3</Students>
 	<Duration>3</Duration>
@@ -14058,7 +13848,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>BIO3</Students>
 	<Students>SOC3</Students>
 	<Duration>3</Duration>
@@ -14089,7 +13878,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -14104,7 +13892,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC3</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -14133,7 +13920,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -14148,7 +13934,6 @@
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>SOC</Activity_Tag>
 	<Activity_Tag>SOC4</Activity_Tag>
-	<Activity_Tag>LecTTh</Activity_Tag>
 	<Students>SOC4</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -18969,22 +18754,6 @@
 </ConstraintMinDaysBetweenActivities>
 <ConstraintActivitiesSameStartingHour>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>102</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>102</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>104</Activity_Id>
 	<Activity_Id>105</Activity_Id>
@@ -19291,38 +19060,6 @@
 </ConstraintMinDaysBetweenActivities>
 <ConstraintActivitiesSameStartingHour>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>152</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>152</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>154</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>154</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>157</Activity_Id>
 	<Activity_Id>158</Activity_Id>
@@ -19335,22 +19072,6 @@
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>157</Activity_Id>
 	<Activity_Id>158</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>159</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>159</Activity_Id>
 	<MinDays>2</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -19533,38 +19254,6 @@
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>193</Activity_Id>
 	<Activity_Id>194</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>196</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>196</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>198</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>198</Activity_Id>
 	<MinDays>2</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -19957,22 +19646,6 @@
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>280</Activity_Id>
 	<Activity_Id>281</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>283</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>283</Activity_Id>
 	<MinDays>2</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21605,22 +21278,6 @@
 </ConstraintMinDaysBetweenActivities>
 <ConstraintActivitiesSameStartingHour>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>578</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>578</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>3</Number_of_Activities>
 	<Activity_Id>581</Activity_Id>
 	<Activity_Id>582</Activity_Id>
@@ -21697,22 +21354,6 @@
 </ConstraintMinDaysBetweenActivities>
 <ConstraintActivitiesSameStartingHour>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>596</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>596</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>598</Activity_Id>
 	<Activity_Id>599</Activity_Id>
@@ -21761,22 +21402,6 @@
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>604</Activity_Id>
 	<Activity_Id>605</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>607</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>607</Activity_Id>
 	<MinDays>2</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21993,38 +21618,6 @@
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>641</Activity_Id>
 	<Activity_Id>642</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>644</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>644</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>646</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>1</Number_of_Activities>
-	<Activity_Id>646</Activity_Id>
 	<MinDays>2</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -48608,177 +48201,6 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredTimeSlots>
-<ConstraintActivitiesPreferredStartingTimes>
-	<Weight_Percentage>60</Weight_Percentage>
-	<Teacher_Name></Teacher_Name>
-	<Students_Name></Students_Name>
-	<Subject_Name></Subject_Name>
-	<Activity_Tag_Name>LecTTh</Activity_Tag_Name>
-	<Duration></Duration>
-	<Number_of_Preferred_Starting_Times>40</Number_of_Preferred_Starting_Times>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>09:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>09:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>10:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>10:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>11:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>11:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>12:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>12:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>13:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>13:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>14:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>14:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>15:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>15:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>16:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>16:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>17:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>T</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>17:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>08:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>08:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>09:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>09:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>10:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>10:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>11:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>11:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>12:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>12:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>13:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>13:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>14:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>14:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>15:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>15:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>16:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>16:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>17:00</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Preferred_Starting_Time>
-		<Preferred_Starting_Day>Th</Preferred_Starting_Day>
-		<Preferred_Starting_Hour>17:30</Preferred_Starting_Hour>
-	</Preferred_Starting_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesPreferredStartingTimes>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>1</Activity_Id>
@@ -57427,13 +56849,6 @@
 </ConstraintActivityTagPreferredRoom>
 <ConstraintActivityTagPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>A303</Activity_Tag>
-	<Room>A303</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Tag>B003</Activity_Tag>
 	<Room>B003</Room>
 	<Active>true</Active>
@@ -57443,13 +56858,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Tag>B004</Activity_Tag>
 	<Room>B004</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>B110</Activity_Tag>
-	<Room>B110</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityTagPreferredRoom>
@@ -57539,13 +56947,6 @@
 </ConstraintActivityTagPreferredRoom>
 <ConstraintActivityTagPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>C114</Activity_Tag>
-	<Room>C114</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Tag>C117</Activity_Tag>
 	<Room>C117</Room>
 	<Active>true</Active>
@@ -57581,22 +56982,8 @@
 </ConstraintActivityTagPreferredRoom>
 <ConstraintActivityTagPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>C303</Activity_Tag>
-	<Room>C303</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Tag>C305</Activity_Tag>
 	<Room>C305</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>C308</Activity_Tag>
-	<Room>C308</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityTagPreferredRoom>
@@ -57632,27 +57019,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Tag>D112</Activity_Tag>
 	<Room>D112</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>D113</Activity_Tag>
-	<Room>D113</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>D114</Activity_Tag>
-	<Room>D114</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityTagPreferredRoom>
-<ConstraintActivityTagPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Tag>D117</Activity_Tag>
-	<Room>D117</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityTagPreferredRoom>
