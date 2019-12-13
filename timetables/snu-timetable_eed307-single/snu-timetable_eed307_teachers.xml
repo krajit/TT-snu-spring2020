@@ -75213,10 +75213,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -75305,10 +75305,10 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="17:00">
      
@@ -75319,13 +75319,13 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="08:30">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="09:30">
      
@@ -75337,13 +75337,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -75443,13 +75443,13 @@
    </Day>
    <Day name="F">
     <Hour name="08:00">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="08:30">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="09:30">
      
@@ -75461,13 +75461,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="ECO335"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:30">
      

@@ -5703,19 +5703,19 @@
 <Activity>
 	<Id>962</Id>
 	<Day>W</Day>
-	<Hour>11:00</Hour>
+	<Hour>08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>963</Id>
 	<Day>F</Day>
-	<Hour>11:00</Hour>
+	<Hour>08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>964</Id>
-	<Day>T</Day>
-	<Hour>16:00</Hour>
+	<Day>M</Day>
+	<Hour>11:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>

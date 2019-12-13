@@ -1,5 +1,5 @@
-﻿Soft conflicts of snu-timetable.fet
-Generated with FET 5.37.5 on 12/14/19 3:38 AM
+﻿Soft conflicts of snu-timetable_eed307.fet
+Generated with FET 5.37.5 on 12/14/19 3:37 AM
 
 Number of broken soft constraints: 14
 Total soft conflicts: 13.3
