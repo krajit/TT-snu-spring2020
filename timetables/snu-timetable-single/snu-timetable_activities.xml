@@ -3632,20 +3632,20 @@
 </Activity>
 <Activity>
 	<Id>617</Id>
-	<Day>F</Day>
-	<Hour>16:30</Hour>
+	<Day>M</Day>
+	<Hour>16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>618</Id>
-	<Day>W</Day>
-	<Hour>16:30</Hour>
+	<Day>F</Day>
+	<Hour>16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>619</Id>
 	<Day>M</Day>
-	<Hour>16:00</Hour>
+	<Hour>11:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -3686,20 +3686,20 @@
 </Activity>
 <Activity>
 	<Id>626</Id>
-	<Day>F</Day>
-	<Hour>15:00</Hour>
+	<Day>Th</Day>
+	<Hour>16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>627</Id>
-	<Day>W</Day>
-	<Hour>15:00</Hour>
+	<Day>T</Day>
+	<Hour>16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>628</Id>
-	<Day>T</Day>
-	<Hour>10:30</Hour>
+	<Day>Th</Day>
+	<Hour>09:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -3788,8 +3788,8 @@
 </Activity>
 <Activity>
 	<Id>643</Id>
-	<Day>M</Day>
-	<Hour>11:00</Hour>
+	<Day>T</Day>
+	<Hour>11:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>

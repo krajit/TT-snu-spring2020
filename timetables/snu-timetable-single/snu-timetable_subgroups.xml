@@ -4389,10 +4389,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -4419,13 +4419,13 @@
      
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -4546,13 +4546,13 @@
      
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Th">
@@ -4667,7 +4667,7 @@
      
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
@@ -4676,7 +4676,7 @@
       <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -6573,10 +6573,10 @@
       <Teacher name="ANIRBAN BHATTACHARYYA[1710120052]"></Teacher> <Teacher name="SARAH HAQ[1710120120]"></Teacher><Subject name="SOC102"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -6603,13 +6603,13 @@
      
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -6730,13 +6730,13 @@
      
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Th">
@@ -6851,7 +6851,7 @@
      
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
@@ -6860,7 +6860,7 @@
       <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -9693,10 +9693,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -9723,13 +9723,13 @@
      
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -9850,13 +9850,13 @@
       <Teacher name="Amber Habib[20500009]"></Teacher><Subject name="MAT102"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="MAT"></Activity_Tag><Activity_Tag name="MAT1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Th">
@@ -9971,7 +9971,7 @@
      
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
@@ -9980,7 +9980,7 @@
       <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -12248,10 +12248,10 @@
      
     </Hour>
     <Hour name="10:30">
-      <Teacher name="SOURAV SAHA[1910120166]"></Teacher> <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="SOURAV SAHA[1910120166]"></Teacher> <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -12281,13 +12281,13 @@
      
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -12337,13 +12337,13 @@
       <Teacher name="LunchSOC2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
       <Teacher name="Subhashim Goswami[20500773]"></Teacher><Subject name="SOC202"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
@@ -12366,10 +12366,10 @@
      
     </Hour>
     <Hour name="09:30">
-     
+      <Teacher name="SOURAV SAHA[1910120166]"></Teacher> <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="SOURAV SAHA[1910120166]"></Teacher> <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -12405,13 +12405,13 @@
      
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -12461,13 +12461,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Tuhina Ganguly[20500765]"></Teacher><Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -23733,10 +23733,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhashim Goswami[20500773]"></Teacher><Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhashim Goswami[20500773]"></Teacher><Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -23798,10 +23798,10 @@
      
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Subhashim Goswami[20500773]"></Teacher><Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Subhashim Goswami[20500773]"></Teacher><Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
      

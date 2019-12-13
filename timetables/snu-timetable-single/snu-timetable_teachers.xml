@@ -77768,10 +77768,10 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -77886,10 +77886,10 @@
      
     </Hour>
     <Hour name="09:30">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="10:30">
      
@@ -89253,10 +89253,10 @@
      <Subject name="SOC202"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="11:00">
-     <Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag><Students name="SOC4"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag><Students name="SOC4"></Students>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -89318,10 +89318,10 @@
      
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag><Students name="SOC4"></Students>
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="SOC412"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC4"></Activity_Tag><Students name="SOC4"></Students>
     </Hour>
     <Hour name="12:30">
      
@@ -94245,10 +94245,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -94275,13 +94275,13 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
+     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="16:30">
-     <Subject name="SOC103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
+     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="17:30">
      
@@ -94304,10 +94304,10 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -94337,13 +94337,13 @@
      
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="17:30">
      
@@ -94393,22 +94393,22 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
+     
     </Hour>
     <Hour name="17:00">
-     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
+     
     </Hour>
     <Hour name="17:30">
-     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
+     
     </Hour>
    </Day>
    <Day name="Th">
@@ -94422,10 +94422,10 @@
      
     </Hour>
     <Hour name="09:30">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="10:30">
      
@@ -94461,13 +94461,13 @@
      
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
     </Hour>
     <Hour name="17:30">
      
@@ -94517,13 +94517,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="SOC203"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC2"></Activity_Tag><Students name="SOC2"></Students>
+     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="16:30">
      <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
@@ -94532,7 +94532,7 @@
      <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="17:30">
-     <Subject name="SOC103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="SOC"></Activity_Tag><Activity_Tag name="SOC1"></Activity_Tag><Students name="SOC1"></Students><Students name="ECO2"></Students><Students name="ENG1"></Students>
+     
     </Hour>
    </Day>
   </Teacher>
