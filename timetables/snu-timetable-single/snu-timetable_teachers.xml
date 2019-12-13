@@ -11086,13 +11086,13 @@
      
     </Hour>
     <Hour name="14:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -11210,13 +11210,13 @@
      
     </Hour>
     <Hour name="14:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -75305,10 +75305,10 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="17:00">
      
@@ -75322,10 +75322,10 @@
      
     </Hour>
     <Hour name="08:30">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="ECO335"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="09:30">
      
@@ -88929,10 +88929,10 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="CHY324"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="09:30">
-     <Subject name="CHY324"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="10:00">
      
@@ -89053,10 +89053,10 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="CHY324"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="09:30">
-     <Subject name="CHY324"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="10:00">
      
@@ -89177,10 +89177,10 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="CHY324"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="09:30">
-     <Subject name="CHY324"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="10:00">
      
@@ -97510,13 +97510,13 @@
      
     </Hour>
     <Hour name="14:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -97634,13 +97634,13 @@
      
     </Hour>
     <Hour name="14:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="CHY344"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CHY"></Activity_Tag><Activity_Tag name="CHY3"></Activity_Tag><Students name="CHY3"></Students><Students name="CHY4"></Students>
+     
     </Hour>
     <Hour name="16:00">
      
