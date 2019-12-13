@@ -2426,26 +2426,20 @@
 </Activity>
 <Activity>
 	<Id>415</Id>
-	<Day>F</Day>
-	<Hour>09:30</Hour>
+	<Day>Th</Day>
+	<Hour>09:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>416</Id>
-	<Day>W</Day>
-	<Hour>09:30</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
-	<Id>417</Id>
 	<Day>M</Day>
-	<Hour>09:30</Hour>
+	<Hour>09:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>418</Id>
-	<Day>Th</Day>
-	<Hour>09:00</Hour>
+	<Day>W</Day>
+	<Hour>09:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
