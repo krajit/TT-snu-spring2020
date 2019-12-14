@@ -5001,34 +5001,34 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
       <Teacher name="Jaya Menon[20500223]"></Teacher> <Teacher name="Shekhar Pratap Singh[20500427]"></Teacher> <Teacher name="Divya Kannan[20501004]"></Teacher> <Teacher name="Gyan Vikash[20500145]"></Teacher> <Teacher name="Diviani Chaudhuri[20500964]"></Teacher> <Teacher name="Deepak Sehgal[20500085]"></Teacher> <Teacher name="Animesh Samanta[20501079]"></Teacher> <Teacher name="N. Sukumar[20500050]"></Teacher> <Teacher name="Ashish Gupta[20500190]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Aloke Kanjilal[20500143]"></Teacher> <Teacher name="Subhra Sen Gupta[20500365]"></Teacher> <Teacher name="Kshatresh Dutta Dubey[20501049]"></Teacher> <Teacher name="Amit Ray[20500123]"></Teacher> <Teacher name="Soumya Pati[20500398]"></Teacher> <Teacher name="Aakash Kishore Sinha[20500738]"></Teacher> <Teacher name="AN FELICSONA[1810120121]"></Teacher> <Teacher name="Jagabandhu Dixit[20500135]"></Teacher> <Teacher name="Priyanka Grover[20500411]"></Teacher> <Teacher name="Gopal Das Singhal[20500079]"></Teacher> <Teacher name="Kurt James Horner[20501101]"></Teacher> <Teacher name="Susant Kumar Padhi[20501001]"></Teacher> <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Sneh Lata[20500012]"></Teacher> <Teacher name="Kaveri Gill[20500669]"></Teacher> <Teacher name=""></Teacher><Subject name="CCC608"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
@@ -5040,19 +5040,19 @@
       <Teacher name="Jaya Menon[20500223]"></Teacher> <Teacher name="Shekhar Pratap Singh[20500427]"></Teacher> <Teacher name="Divya Kannan[20501004]"></Teacher> <Teacher name="Gyan Vikash[20500145]"></Teacher> <Teacher name="Diviani Chaudhuri[20500964]"></Teacher> <Teacher name="Deepak Sehgal[20500085]"></Teacher> <Teacher name="Animesh Samanta[20501079]"></Teacher> <Teacher name="N. Sukumar[20500050]"></Teacher> <Teacher name="Ashish Gupta[20500190]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Aloke Kanjilal[20500143]"></Teacher> <Teacher name="Subhra Sen Gupta[20500365]"></Teacher> <Teacher name="Kshatresh Dutta Dubey[20501049]"></Teacher> <Teacher name="Amit Ray[20500123]"></Teacher> <Teacher name="Soumya Pati[20500398]"></Teacher> <Teacher name="Aakash Kishore Sinha[20500738]"></Teacher> <Teacher name="AN FELICSONA[1810120121]"></Teacher> <Teacher name="Jagabandhu Dixit[20500135]"></Teacher> <Teacher name="Priyanka Grover[20500411]"></Teacher> <Teacher name="Gopal Das Singhal[20500079]"></Teacher> <Teacher name="Kurt James Horner[20501101]"></Teacher> <Teacher name="Susant Kumar Padhi[20501001]"></Teacher> <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Sneh Lata[20500012]"></Teacher> <Teacher name="Kaveri Gill[20500669]"></Teacher> <Teacher name=""></Teacher><Subject name="CCC608"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher><Subject name="INT104"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher><Subject name="INT104"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="T">
@@ -5069,22 +5069,22 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
@@ -5093,28 +5093,28 @@
       <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
      
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-     
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="W">
@@ -5128,43 +5128,43 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
       <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher><Subject name="INT104"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
@@ -5187,22 +5187,22 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -5226,19 +5226,19 @@
       <Teacher name="Jaya Menon[20500223]"></Teacher> <Teacher name="Shekhar Pratap Singh[20500427]"></Teacher> <Teacher name="Divya Kannan[20501004]"></Teacher> <Teacher name="Gyan Vikash[20500145]"></Teacher> <Teacher name="Diviani Chaudhuri[20500964]"></Teacher> <Teacher name="Deepak Sehgal[20500085]"></Teacher> <Teacher name="Animesh Samanta[20501079]"></Teacher> <Teacher name="N. Sukumar[20500050]"></Teacher> <Teacher name="Ashish Gupta[20500190]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Aloke Kanjilal[20500143]"></Teacher> <Teacher name="Subhra Sen Gupta[20500365]"></Teacher> <Teacher name="Kshatresh Dutta Dubey[20501049]"></Teacher> <Teacher name="Amit Ray[20500123]"></Teacher> <Teacher name="Soumya Pati[20500398]"></Teacher> <Teacher name="Aakash Kishore Sinha[20500738]"></Teacher> <Teacher name="AN FELICSONA[1810120121]"></Teacher> <Teacher name="Jagabandhu Dixit[20500135]"></Teacher> <Teacher name="Priyanka Grover[20500411]"></Teacher> <Teacher name="Gopal Das Singhal[20500079]"></Teacher> <Teacher name="Kurt James Horner[20501101]"></Teacher> <Teacher name="Susant Kumar Padhi[20501001]"></Teacher> <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Sneh Lata[20500012]"></Teacher> <Teacher name="Kaveri Gill[20500669]"></Teacher> <Teacher name=""></Teacher><Subject name="CCC608"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Kaveri Gill[20500669]"></Teacher><Subject name="INT131"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="F">
@@ -5252,43 +5252,43 @@
      
     </Hour>
     <Hour name="09:30">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT102"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher><Subject name="INT104"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher><Subject name="INT104"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchINT1"></Teacher><Subject name="Lunch"></Subject>
-    </Hour>
-    <Hour name="14:00">
      
     </Hour>
+    <Hour name="14:00">
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+    </Hour>
     <Hour name="14:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+      <Teacher name="Atul Mishra[20500723]"></Teacher><Subject name="INT103"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Sruthi Muraleedharan[20501002]"></Teacher><Subject name="INT142"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
       <Teacher name="Siddharth Mallavarapu[20500876]"></Teacher><Subject name="INT104"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="INT"></Activity_Tag><Activity_Tag name="INT1"></Activity_Tag>
@@ -15683,16 +15683,16 @@
       <Teacher name="Dinkar Prasad[20500201]"></Teacher> <Teacher name="Harikesh Rawat[1510120020]"></Teacher><Subject name="EED402"></Subject><Activity_Tag name="Lab"></Activity_Tag><Activity_Tag name="EED"></Activity_Tag><Activity_Tag name="EED4"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchEEE3"></Teacher><Subject name="Lunch"></Subject>
@@ -15763,16 +15763,16 @@
       <Teacher name="LunchEEE3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
       <Teacher name="Kaushik Chaudhuri[20500281]"></Teacher><Subject name="OHM403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="OHM"></Activity_Tag><Activity_Tag name="OHM4"></Activity_Tag>
@@ -15995,16 +15995,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
      
@@ -16075,16 +16075,16 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
+      <Teacher name="Ashwin Ramanathan[20500228]"></Teacher><Subject name="COM192"></Subject><Activity_Tag name="tutorial"></Activity_Tag><Activity_Tag name="COM"></Activity_Tag><Activity_Tag name="COM1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
       <Teacher name="Kaushik Chaudhuri[20500281]"></Teacher><Subject name="OHM403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="OHM"></Activity_Tag><Activity_Tag name="OHM4"></Activity_Tag>
