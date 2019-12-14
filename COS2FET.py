@@ -20,7 +20,7 @@ print('\nWarning: Large courses with multiple tutorials generally have instructo
 templatePath = 'basicTemplate.fet'
 basicTemplate = open(templatePath,"r").read()
 formattedData = basicTemplate 
-fetFileName = 'snu-timetable_lab.fet'
+fetFileName = 'snu-sp2020.fet'
 
 # hours, written vertically aligned to easily comment out few slots
 slots = ['08:00', '08:30', 
@@ -712,8 +712,8 @@ tag = tag+ lunchInFourDaysXML
 
 # add CCC overlapping constratint
 #import CCCsameSlot as ov
-##import overlappingCCCstring as ov
-##tag = tag+ov.x
+#import overlappingCCCstring as ov
+#tag = tag+ov.x
 #tag = tag +ov.coursesOverlappingXML
 
 #from minimalGapsForTeachers import globalMinGapXML
