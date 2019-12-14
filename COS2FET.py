@@ -20,7 +20,7 @@ print('\nWarning: Large courses with multiple tutorials generally have instructo
 templatePath = 'basicTemplate.fet'
 basicTemplate = open(templatePath,"r").read()
 formattedData = basicTemplate 
-fetFileName = 'snu-timetable.fet'
+fetFileName = 'snu-timetable_lab.fet'
 
 # hours, written vertically aligned to easily comment out few slots
 slots = ['08:00', '08:30', 
@@ -332,7 +332,9 @@ for cIndex, c in courseList.items():
                 activityXML = activityXML + '\t<Teacher>'+i+'</Teacher>\n'
             activityTag = l['room'][0:4] #'LAB' +'+'+ l['room'][0:4]+'+'+lIndex
             activityTagSet.add(activityTag)
-
+            activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
+            
+            
             for aTag in l['activityTags']:
                 activityTagSet.add(aTag)
                 activityXML = activityXML + '\t<Activity_Tag>'+aTag+'</Activity_Tag>\n'

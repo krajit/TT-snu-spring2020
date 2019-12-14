@@ -23,8 +23,6 @@ slots = pickle.load(slotsPickle)
 #
 #
 #
-
-
 ##----------------------------------------
 #read exported csv format of the latest timetable
 import csv
