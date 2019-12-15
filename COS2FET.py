@@ -20,7 +20,7 @@ print('\nWarning: Large courses with multiple tutorials generally have instructo
 templatePath = 'basicTemplate.fet'
 basicTemplate = open(templatePath,"r").read()
 formattedData = basicTemplate 
-fetFileName = 'snu-sp2020.fet'
+fetFileName = 'snu-sp2020_test.fet'
 
 # hours, written vertically aligned to easily comment out few slots
 slots = ['08:00', '08:30', 

@@ -26,7 +26,7 @@ slots = pickle.load(slotsPickle)
 ##----------------------------------------
 #read exported csv format of the latest timetable
 import csv
-with open('csv/snu-timetable/snu-timetable_timetable.csv', 'r') as ff:
+with open('csv/snu-sp2020/snu-sp2020_timetable.csv', 'r') as ff:
   reader = csv.reader(ff)
   activities = list(reader)
  
