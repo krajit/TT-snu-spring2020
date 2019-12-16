@@ -4010,6 +4010,34 @@
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
+<Teacher>
+	<Name>Dipti Dubey</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MAT102TA1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MAT102TA2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MAT102TA3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
 </Teachers_List>
 
 <Students_List>
@@ -10966,7 +10994,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Amber Habib[20500009]</Teacher>
+	<Teacher>MAT102TA1</Teacher>
 	<Subject>MAT102</Subject>
 	<Activity_Tag>tutorial</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -10981,7 +11009,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Amber Habib[20500009]</Teacher>
+	<Teacher>MAT102TA2</Teacher>
 	<Subject>MAT102</Subject>
 	<Activity_Tag>tutorial</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -10995,7 +11023,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Amber Habib[20500009]</Teacher>
+	<Teacher>MAT102TA3</Teacher>
 	<Subject>MAT102</Subject>
 	<Activity_Tag>tutorial</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11458,7 +11486,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT283Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT283</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11472,7 +11500,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT283Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT283</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11486,7 +11514,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT283Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT283</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11500,7 +11528,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT283Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT283</Subject>
 	<Activity_Tag>tutorial</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11570,7 +11598,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT388Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT388</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11586,7 +11614,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT388Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT388</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>MAT</Activity_Tag>
@@ -11602,7 +11630,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>MAT388Ins</Teacher>
+	<Teacher>Dipti Dubey</Teacher>
 	<Subject>MAT388</Subject>
 	<Activity_Tag>MAT-ME-SLOT-B</Activity_Tag>
 	<Activity_Tag>tutorial</Activity_Tag>
@@ -49438,6 +49466,211 @@
 	<Weight_Percentage>95</Weight_Percentage>
 	<Teacher_Name>Vijaykumar Chakka[20500251]</Teacher_Name>
 	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dipti Dubey</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>90</Weight_Percentage>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>430</Activity_Id>
+	<Activity_Id>431</Activity_Id>
+	<Activity_Id>432</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Teacher_Name>Amit Bakshi[20500252]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Debashish Bose[20500200]</Teacher_Name>
+	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Divya Lohani[20500325]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Teacher_Name>Sweta Mishra[20501119]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Atul Vir Singh[20500082]</Teacher_Name>
+	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>434</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>433</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Basab Bijayi Dhar[20500431]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Diviani Chaudhuri[20500964]</Teacher_Name>
+	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Dinkar Prasad[20500201]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Gopal Das Singhal[20500079]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Gyan Vikash[20500145]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Iman Kumar Mitra[20501006]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Rakesh Kumar[20500918]</Teacher_Name>
+	<Maximum_Hours_Continuously>6</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Shalini Rankavat[20500763]</Teacher_Name>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxHoursContinuously>
