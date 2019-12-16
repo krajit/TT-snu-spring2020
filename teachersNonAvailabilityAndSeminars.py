@@ -27,25 +27,25 @@ for i in range(1,sheet.nrows):
 
         
 teachersNotAvailalbeSlots = {
-        'Divya  Shrivastava[20500160]':{'09:00','09:30'},
+#        'Divya  Shrivastava[20500160]':{'09:00','09:30'},
         'Ajit  Kumar[20500008]':{'09:00','09:30'},
-        'Ranendra Narayan Biswas[20500321]': {'13:00','13:30'},
-        'Rohit  Singh[20501073]': {'13:00','13:30'},
-        'Upendra Kumar Pandey[20501071]': {'13:00','13:30'},
-        'Sonal  Singhal[20500080]': {'13:00','13:30'},
-        'Sumit Tiwari': {'13:00','13:30'},
-        'harpreet  Singh Grewal[20500440]':{'08:00','09:00','09:00','09:30'},
-        'Gyan  Vikash[20500145]':{'09:00','09:30'},
+#        'Ranendra Narayan Biswas[20500321]': {'13:00','13:30'},
+#        'Rohit  Singh[20501073]': {'13:00','13:30'},
+#        'Upendra Kumar Pandey[20501071]': {'13:00','13:30'},
+#        'Sonal  Singhal[20500080]': {'13:00','13:30'},
+#        'Sumit Tiwari': {'13:00','13:30'},
+#        'harpreet  Singh Grewal[20500440]':{'08:00','09:00','09:00','09:30'},
+#        'Gyan  Vikash[20500145]':{'09:00','09:30'},
         'Sri Krishna Jayadev Magani[20500054]': {'09:00','09:30'},
-        'Sandeep Sen': set(slots[12:]),
-        'Pooja  Malik[20500448]':{'13:00','13:30'},
-        'Amber  Habib[20500009]':{'13:00','13:30'},
-        'Lal Mohan Saha[20500014]':{'13:00','13:30'},
+#        'Sandeep Sen': set(slots[12:]),
+#        'Pooja  Malik[20500448]':{'13:00','13:30'},
+#        'Amber  Habib[20500009]':{'13:00','13:30'},
+#        'Lal Mohan Saha[20500014]':{'13:00','13:30'},
         }
 
 teachersNotAvailalbeDays = {
         'Sanjeev  Agrawal[20500033]' : ['M'],
-        'Jai Prakash Gupta[20500662]' : ['M'],
+#        'Jai Prakash Gupta[20500662]' : ['M'],
         }
 
 genNonAvailability = {'M':{'08:00', '08:30', '17:00', '17:30'},
@@ -69,8 +69,8 @@ onCampusNonAvailability = {'M':set(),
 
 # dept seminar slots
 deptNonAvailability = {
-        'School of Natural Sciences - Physics' : {'T':{'15:00','15:30','16:00'}},
-        'School of Natural Sciences - Mathematics': {'T':{'15:30','16:00','16:30'}}
+#        'School of Natural Sciences - Physics' : {'T':{'15:00','15:30','16:00'}},
+#        'School of Natural Sciences - Mathematics': {'T':{'15:30','16:00','16:30'}}
         }
 
 deptListOfInstructorsPickle = open('deptListOfInstructors.pickle','rb')

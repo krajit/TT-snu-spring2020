@@ -277,11 +277,12 @@ for cIndex, c in courseList.items():
             activityTag = lIndex #'TUT+AnyRoom+'+lIndex
             activityTagSet.add(activityTag)
             
+            print (lIndex)
+            
             for aTag in l['activityTags']:
                 activityTagSet.add(aTag)
                 activityXML = activityXML + '\t<Activity_Tag>'+aTag+'</Activity_Tag>\n'
-#            activityXML = activityXML + '\t<Activity_Tag>'+activityTag+'</Activity_Tag>\n'
-            
+            activityXML = activityXML + '\t<Activity_Tag>'+lIndex+'</Activity_Tag>\n'
             activityTagSet.add('tutorial')
             activityXML = activityXML + '\t<Activity_Tag>tutorial</Activity_Tag>\n'
             
@@ -338,8 +339,9 @@ for cIndex, c in courseList.items():
             for aTag in l['activityTags']:
                 activityTagSet.add(aTag)
                 activityXML = activityXML + '\t<Activity_Tag>'+aTag+'</Activity_Tag>\n'
-            
+            activityXML = activityXML + '\t<Activity_Tag>'+lIndex+'</Activity_Tag>\n'
             activityTagSet.add("Lab")
+            activityTagSet.add(lIndex)            
             activityXML = activityXML + '\t<Activity_Tag>'+"Lab"+'</Activity_Tag>\n'
 
             
@@ -720,8 +722,8 @@ tag = tag+ lunchInFourDaysXML
 #tag = tag + globalMinGapXML
 
 # Ajit: Jul 10, students set not availability is ignored. Completely determined by faculty availability
-import studentsNotAvailableSlots as sna
-tag = tag+ sna.studentsFreeTimeXML
+#import studentsNotAvailableSlots as sna
+#tag = tag+ sna.studentsFreeTimeXML
 
 #import teachersNotAvailableSlots as tna
 import teachersNonAvailabilityAndSeminars as tna

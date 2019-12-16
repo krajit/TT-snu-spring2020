@@ -67,15 +67,15 @@ def timingsToSlots(timings):
     return(timeDict)
     
 
-courseToBeSkipped = {'ARC101', 'ARC317'}
+courseToBeSkipped = {} #{'ARC101', 'ARC317'}
 specialRoomCourses = {
-        'PHY105L1' : 'B116',
-        'PHY105T1' : 'B116',
-        'PHY563L1' : 'B116',
-        'PHY563T1' : 'B116',
-        'COM192L1' : 'B004',
-        'COM192T1' : 'B004',
-        'COM197L1' : 'B004',
+#        'PHY105L1' : 'B116',
+#        'PHY105T1' : 'B116',
+#        'PHY563L1' : 'B116',
+#        'PHY563T1' : 'B116',
+#        'COM192L1' : 'B004',
+#        'COM192T1' : 'B004',
+#        'COM197L1' : 'B004',
         }
 # read BMS course sheet
 courses = dict()
@@ -145,207 +145,207 @@ for i in range(2,sheet.nrows):
         courses[cCode]['expandedTimings'][sDayName[day]] = cSlots
 
 
-
-# ERP list seem to be incomplete
-# add non-uploaded timetable from google sheet data
-# several courses seem to have wrong capacity entered in the erp
-# download the schedule google sheet and update the course capacity
-capacityFile = "SNU - Monsoon 2019.xlsx"
-wb = xlrd.open_workbook(capacityFile) 
-sheet = wb.sheet_by_index(0) # get first sheet
-# fill in the rooms booking
-capacityDict = dict()
-for i in range(1,sheet.nrows):
-    
-    if 'PRAC' in sheet.cell_value(i,1):
-        continue
-    
-    cCode = sheet.cell_value(i,0)
-    if 'LEC' in sheet.cell_value(i,1):
-        capacity = int(sheet.cell_value(i,6))
-        capacityDict[cCode+'L'+sheet.cell_value(i,1)[-1]] = capacity
-        
-    if 'LEC' in sheet.cell_value(i,1):
-        cCode = sheet.cell_value(i,0)+'L'+sheet.cell_value(i,1)[-1]
-        
-    if 'TUT' in sheet.cell_value(i,1):
-        if len(sheet.cell_value(i,1)) == 4:
-            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-1]
-        else:
-            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-2:]
-            
-        
-
-# replace ERP capacity with google sheet copacity
-for cCode in courses:
-    if cCode in capacityDict:
-        courses[cCode]['capacity'] = capacityDict[cCode]
-
-    
-for c in courses:
-    if 'consecutiveTutorial' in courses[c]:
-        print(c)
-
-        
-        
-
-
-
-
-
-# identify courses with consecutive lectures and tutorials
-for cCode in courses:
-    # only look for tutorials with only one tutorial section
-    if cCode[6] == 'T' and ((cCode[0:7]+str(2)) in courses):
-        continue
-    # only work on tutorial
-    if cCode[6] != 'T':
-        continue
-    tExpandedTimeSet = timeDictToTimeSet(courses[cCode]['expandedTimings'])
-    lTimeSet = timeDictToTimeSet(courses[cCode[0:6]+'L1']['timings'])
-    if tExpandedTimeSet.intersection(lTimeSet):
-        #simply expand lecture time slot of these courses
-        courses[cCode[0:6]+'L1']['consecutiveTutorial'] = True
-        courses[cCode[0:6]+'L1']['tutorialTimings'] = courses[cCode]['timings']
-        courses[cCode]['consecutiveLectures'] = True
-            
-
-departments = {'ADP','BDA','BIO','CHY','MAT','PHY','ART','CCC','CED','CHD',
-               'CSD','DES','DOM','ECO','EED','ENG','FAC','HIS','INT','ISM',
-               'MEC','MED','MGT','MKT','OHM','SOC','STM'}    
-        
-bBlockPrefs = {'ADP','BDA','BIO','CHY','MAT','PHY'}
-dBlockPrefs = departments.difference(bBlockPrefs)    
-       
-    
-def findRoom(tSet,cCode,capacity, biometric = False):
-    availableRoomSet = set()
-    for r in rooms:
-        if rooms[r]['capacity'] < capacity:
-            continue
-        if (biometric == True) and (rooms[r]['isBiometric'] == False):
-            continue
-        roomAvailable = True
-        for ds in tSet:
-            d,s = ds
-            if 'available' not in rooms[r]['slots'][d][s]:
-                roomAvailable = False
-                continue
-        if roomAvailable:
-            availableRoomSet.add((r,rooms[r]['capacity']))
-    
-    if len(availableRoomSet) == 0:
-        print(cCode, capacity, 'no room found')
-        return 'TBA'
-
-    # sort room 
-    # increasing room capacity
-    # and room preference
-    if cCode[0:3] in bBlockPrefs:                    
-        # sort room B block first
-        availableRoomSet = sorted(sorted(availableRoomSet, key = lambda x : x[0], reverse = True), key = lambda x : x[1]) 
-    else:
-        # sort room D Block first
-        availableRoomSet = sorted(sorted(availableRoomSet, key = lambda x : x[0], reverse = False), key = lambda x : x[1]) 
-    return (availableRoomSet[0][0])    
-
-# start booking the rooms
-coursesList = sorted(courses.items(), key = lambda x: x[1]['capacity'], reverse=True)    
-# make it dictionary again
-courses = dict()
-for c in coursesList:
-    courses[c[0]] = c[1]
-    
-for cCode in courses:
-    tSet = courses[cCode]['timings']
-    tSet = timeDictToTimeSet(tSet)
-    
-    capacity = courses[cCode]['capacity']
-    
-    # biometric needed
-    biometricNeeded = False
-    if cCode[3] in '01':
-        biometricNeeded = True
-
-   # it cCode is  a tutorial and there is a consecutive lecture and tutorial 
-    # skip because room is decided during finding rooms for lectures
-    if 'consecutiveLectures' in courses[cCode]:
-        continue
-
-    
-    # cCode is a lecture and there is a consecutive tutorial
-    # just take the union of lecture and tutorial timeset     
-    if 'consecutiveTutorial' in courses[cCode]:
-        tSet = tSet.union(timeDictToTimeSet(courses[cCode]['tutorialTimings']))
-        
-    cRoom = findRoom(tSet,cCode,capacity,biometricNeeded)
-    courses[cCode]['room'] = cRoom
-    
-    #reserve the room
-    if 'TBA' not in cRoom:
-        for d,s in tSet:
-            rooms[cRoom]['slots'][d][s] = cCode
-            
-        # give room to consecutive tutorial
-        if 'consecutiveTutorial' in courses[cCode]:
-            tCode = cCode[0:-2]+'T1'
-            courses[tCode]['room'] = cRoom
- 
-    
-
-import xlsxwriter
-workbook = xlsxwriter.Workbook('newRoomAssignments.xlsx') 
-worksheet = workbook.add_worksheet()
-
-capacityFile = "SNU - Monsoon 2019.xlsx"
-wb = xlrd.open_workbook(capacityFile) 
-sheet = wb.sheet_by_index(0) # get first sheet
-# fill in the rooms booking
-
-# header row
-worksheet.write(0, 0, 'cCode')
-worksheet.write(0, 1, 'LTP')
-worksheet.write(0, 2, 'Time')
-worksheet.write(0, 3, 'Instructor')
-worksheet.write(0, 4, 'students')
-worksheet.write(0, 5, 'room')
-worksheet.write(0, 6, 'new room')
-
-for i in range(1,sheet.nrows):
-    for j in range(6):
-        worksheet.write(i,j,sheet.cell_value(i,j))
-    
-    if 'LEC' in sheet.cell_value(i,1):
-        cCode = sheet.cell_value(i,0)+'L'+sheet.cell_value(i,1)[-1]
-        
-    if 'TUT' in sheet.cell_value(i,1):
-        if len(sheet.cell_value(i,1)) == 4:
-            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-1]
-        else:
-            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-2:]
-    
-    if cCode in courses:
-            worksheet.write(i,6,courses[cCode]['room'])
-    elif cCode in specialRoomCourses:
-        worksheet.write(i,6,specialRoomCourses[cCode])
-    else:
-        worksheet.write(i,6,'TBA')
-        print(cCode, 'unknown error')
-        
-    if 'PRAC' in sheet.cell_value(i,1):
-        worksheet.write(i,6,sheet.cell_value(i,5))
-    
-workbook.close()
-
-
-
-
-
-for c in courses:
-    if 'consecutiveTutorial' in courses[c]:
-        print(c)
-    
-
-
-
-
+#
+## ERP list seem to be incomplete
+## add non-uploaded timetable from google sheet data
+## several courses seem to have wrong capacity entered in the erp
+## download the schedule google sheet and update the course capacity
+#capacityFile = "SNU - Monsoon 2019.xlsx"
+#wb = xlrd.open_workbook(capacityFile) 
+#sheet = wb.sheet_by_index(0) # get first sheet
+## fill in the rooms booking
+#capacityDict = dict()
+#for i in range(1,sheet.nrows):
+#    
+#    if 'PRAC' in sheet.cell_value(i,1):
+#        continue
+#    
+#    cCode = sheet.cell_value(i,0)
+#    if 'LEC' in sheet.cell_value(i,1):
+#        capacity = int(sheet.cell_value(i,6))
+#        capacityDict[cCode+'L'+sheet.cell_value(i,1)[-1]] = capacity
+#        
+#    if 'LEC' in sheet.cell_value(i,1):
+#        cCode = sheet.cell_value(i,0)+'L'+sheet.cell_value(i,1)[-1]
+#        
+#    if 'TUT' in sheet.cell_value(i,1):
+#        if len(sheet.cell_value(i,1)) == 4:
+#            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-1]
+#        else:
+#            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-2:]
+#            
+#        
+#
+## replace ERP capacity with google sheet copacity
+#for cCode in courses:
+#    if cCode in capacityDict:
+#        courses[cCode]['capacity'] = capacityDict[cCode]
+#
+#    
+#for c in courses:
+#    if 'consecutiveTutorial' in courses[c]:
+#        print(c)
+#
+#        
+#        
+#
+#
+#
+#
+#
+## identify courses with consecutive lectures and tutorials
+#for cCode in courses:
+#    # only look for tutorials with only one tutorial section
+#    if cCode[6] == 'T' and ((cCode[0:7]+str(2)) in courses):
+#        continue
+#    # only work on tutorial
+#    if cCode[6] != 'T':
+#        continue
+#    tExpandedTimeSet = timeDictToTimeSet(courses[cCode]['expandedTimings'])
+#    lTimeSet = timeDictToTimeSet(courses[cCode[0:6]+'L1']['timings'])
+#    if tExpandedTimeSet.intersection(lTimeSet):
+#        #simply expand lecture time slot of these courses
+#        courses[cCode[0:6]+'L1']['consecutiveTutorial'] = True
+#        courses[cCode[0:6]+'L1']['tutorialTimings'] = courses[cCode]['timings']
+#        courses[cCode]['consecutiveLectures'] = True
+#            
+#
+#departments = {'ADP','BDA','BIO','CHY','MAT','PHY','ART','CCC','CED','CHD',
+#               'CSD','DES','DOM','ECO','EED','ENG','FAC','HIS','INT','ISM',
+#               'MEC','MED','MGT','MKT','OHM','SOC','STM'}    
+#        
+#bBlockPrefs = {'ADP','BDA','BIO','CHY','MAT','PHY'}
+#dBlockPrefs = departments.difference(bBlockPrefs)    
+#       
+#    
+#def findRoom(tSet,cCode,capacity, biometric = False):
+#    availableRoomSet = set()
+#    for r in rooms:
+#        if rooms[r]['capacity'] < capacity:
+#            continue
+#        if (biometric == True) and (rooms[r]['isBiometric'] == False):
+#            continue
+#        roomAvailable = True
+#        for ds in tSet:
+#            d,s = ds
+#            if 'available' not in rooms[r]['slots'][d][s]:
+#                roomAvailable = False
+#                continue
+#        if roomAvailable:
+#            availableRoomSet.add((r,rooms[r]['capacity']))
+#    
+#    if len(availableRoomSet) == 0:
+#        print(cCode, capacity, 'no room found')
+#        return 'TBA'
+#
+#    # sort room 
+#    # increasing room capacity
+#    # and room preference
+#    if cCode[0:3] in bBlockPrefs:                    
+#        # sort room B block first
+#        availableRoomSet = sorted(sorted(availableRoomSet, key = lambda x : x[0], reverse = True), key = lambda x : x[1]) 
+#    else:
+#        # sort room D Block first
+#        availableRoomSet = sorted(sorted(availableRoomSet, key = lambda x : x[0], reverse = False), key = lambda x : x[1]) 
+#    return (availableRoomSet[0][0])    
+#
+## start booking the rooms
+#coursesList = sorted(courses.items(), key = lambda x: x[1]['capacity'], reverse=True)    
+## make it dictionary again
+#courses = dict()
+#for c in coursesList:
+#    courses[c[0]] = c[1]
+#    
+#for cCode in courses:
+#    tSet = courses[cCode]['timings']
+#    tSet = timeDictToTimeSet(tSet)
+#    
+#    capacity = courses[cCode]['capacity']
+#    
+#    # biometric needed
+#    biometricNeeded = False
+#    if cCode[3] in '01':
+#        biometricNeeded = True
+#
+#   # it cCode is  a tutorial and there is a consecutive lecture and tutorial 
+#    # skip because room is decided during finding rooms for lectures
+#    if 'consecutiveLectures' in courses[cCode]:
+#        continue
+#
+#    
+#    # cCode is a lecture and there is a consecutive tutorial
+#    # just take the union of lecture and tutorial timeset     
+#    if 'consecutiveTutorial' in courses[cCode]:
+#        tSet = tSet.union(timeDictToTimeSet(courses[cCode]['tutorialTimings']))
+#        
+#    cRoom = findRoom(tSet,cCode,capacity,biometricNeeded)
+#    courses[cCode]['room'] = cRoom
+#    
+#    #reserve the room
+#    if 'TBA' not in cRoom:
+#        for d,s in tSet:
+#            rooms[cRoom]['slots'][d][s] = cCode
+#            
+#        # give room to consecutive tutorial
+#        if 'consecutiveTutorial' in courses[cCode]:
+#            tCode = cCode[0:-2]+'T1'
+#            courses[tCode]['room'] = cRoom
+# 
+#    
+#
+#import xlsxwriter
+#workbook = xlsxwriter.Workbook('newRoomAssignments.xlsx') 
+#worksheet = workbook.add_worksheet()
+#
+#capacityFile = "SNU - Monsoon 2019.xlsx"
+#wb = xlrd.open_workbook(capacityFile) 
+#sheet = wb.sheet_by_index(0) # get first sheet
+## fill in the rooms booking
+#
+## header row
+#worksheet.write(0, 0, 'cCode')
+#worksheet.write(0, 1, 'LTP')
+#worksheet.write(0, 2, 'Time')
+#worksheet.write(0, 3, 'Instructor')
+#worksheet.write(0, 4, 'students')
+#worksheet.write(0, 5, 'room')
+#worksheet.write(0, 6, 'new room')
+#
+#for i in range(1,sheet.nrows):
+#    for j in range(6):
+#        worksheet.write(i,j,sheet.cell_value(i,j))
+#    
+#    if 'LEC' in sheet.cell_value(i,1):
+#        cCode = sheet.cell_value(i,0)+'L'+sheet.cell_value(i,1)[-1]
+#        
+#    if 'TUT' in sheet.cell_value(i,1):
+#        if len(sheet.cell_value(i,1)) == 4:
+#            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-1]
+#        else:
+#            cCode = sheet.cell_value(i,0)+'T'+sheet.cell_value(i,1)[-2:]
+#    
+#    if cCode in courses:
+#            worksheet.write(i,6,courses[cCode]['room'])
+#    elif cCode in specialRoomCourses:
+#        worksheet.write(i,6,specialRoomCourses[cCode])
+#    else:
+#        worksheet.write(i,6,'TBA')
+#        print(cCode, 'unknown error')
+#        
+#    if 'PRAC' in sheet.cell_value(i,1):
+#        worksheet.write(i,6,sheet.cell_value(i,5))
+#    
+#workbook.close()
+#
+#
+#
+#
+#
+#for c in courses:
+#    if 'consecutiveTutorial' in courses[c]:
+#        print(c)
+#    
+#
+#
+#
+#
