@@ -1,11 +1,14 @@
 ﻿Soft conflicts of snu-sp2020_lock1.fet
-Generated with FET 5.37.5 on 12/17/19 4:23 AM
+Generated with FET 5.37.5 on 12/17/19 3:53 PM
 
-Number of broken soft constraints: 1
-Total soft conflicts: 0.95
+Number of broken soft constraints: 4
+Total soft conflicts: 3.7
 
 Soft conflicts list (in decreasing order):
 
 Time constraint activity preferred starting times broken for activity with id=627 (T:Jai Prakash Gupta[20500662], S:EWE101, AT:LEC1,EWE,EWE1, St:EEE3,CHD3,CED3,ECE31,MED31), increases conflicts total by 0.95
+Time constraint activities preferred starting times broken for activity with id=484 (T:Sudeepto Bhattacharya[20500090], S:MAT442, AT:MAT-ME-SLOT-C,tutorial,MAT,MAT4, St:), increases conflicts total by 0.95
+Time constraint activities same starting time broken, because activity with id=432 (T:MAT102TA3, S:MAT102, AT:tutorial,MAT,MAT1, St:PHY1) is not at the same starting time with activity with id=430 (T:MAT102TA1, S:MAT102, AT:tutorial,MAT,MAT1, St:CHY1,ECO2). Conflicts factor increase=0.9
+Time constraint activities same starting time broken, because activity with id=432 (T:MAT102TA3, S:MAT102, AT:tutorial,MAT,MAT1, St:PHY1) is not at the same starting time with activity with id=431 (T:MAT102TA2, S:MAT102, AT:tutorial,MAT,MAT1, St:MAT1). Conflicts factor increase=0.9
 
 End of file.
