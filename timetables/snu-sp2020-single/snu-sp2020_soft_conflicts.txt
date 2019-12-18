@@ -1,5 +1,5 @@
 ﻿Soft conflicts of snu-sp2020.fet
-Generated with FET 5.37.5 on 12/17/19 5:24 PM
+Generated with FET 5.37.5 on 12/19/19 12:50 AM
 
 Number of broken soft constraints: 2
 Total soft conflicts: 1.9
